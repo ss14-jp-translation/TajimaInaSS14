@@ -8,26 +8,24 @@ If you want to host or create content for SS14-ja_JP, this is the repo you need.
 
 ## リンク
 
-~~[Website](https://spacestation14.io/)~~ | [Discord](https://discord.ss14.io/) | ~~[Forum](https://forum.spacestation14.io/)~~ | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Download](https://spacestation14.io/about/nightlies/)
+~~[SS14ウェブサイト](https://spacestation14.io/)~~ | [Discord](https://discord.ss14.io/) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
 
 ## 文書化/ウィキ
 
-Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
+~~Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.~~
 
-## Contributing
+## Contributing (main SS14 repo)
 
 We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
 Just make sure your changes and pull requests are in accordance with the [contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
 
-We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
+## ビルド
 
-## Building
+1. このレポをクローンする。
+2. `RUN_THIS.py` を init submodules に実行し、エンジンをダウンロードします。
+3. ソリューションをコンパイルします。
 
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
-
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
+(英語) [プロジェクトのビルドに関するより詳しい説明](https://docs.spacestation14.com/en/general-development/setup.html)
 
 ## 認可
 
