@@ -8,7 +8,7 @@ If you want to host or create content for SS14-ja_JP, this is the repo you need.
 
 ## リンク
 
-~~[SS14ウェブサイト](https://spacestation14.io/)~~ | [Discord](https://discord.ss14.io/) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
+~~[SS14ウェブサイト](https://spacestation14.io/)~~ | ~~[Discord](https://discord.ss14.io/)~~ | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
 
 ## 文書化/ウィキ
 
