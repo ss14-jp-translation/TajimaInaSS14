@@ -1,7 +1,7 @@
-alerts-low-oxygen-name = [color=red]Low Oxygen[/color]
+alerts-low-oxygen-name = [color=red]低酸素[/color]
 alerts-low-oxygen-desc = There is [color=red]not enough oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
 
-alerts-low-nitrogen-name = [color=red]Low Nitrogen[/color]
+alerts-low-nitrogen-name = [color=red]低窒素[/color]
 alerts-low-nitrogen-desc = There is [color=red]not enough nitrogen[/color] in the air you are breathing. Put on [color=green]internals[/color].
 
 alerts-high-toxin-name = [color=red]High Toxin Level[/color]
@@ -22,7 +22,7 @@ alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere w
 alerts-too-hot-name = [color=red]Too Hot[/color]
 alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
 
-alerts-weightless-name = Weightless
+alerts-weightless-name = 無重力
 alerts-weightless-desc =
     Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
     Mag-boots or jetpacks would help you move with more control.
@@ -45,13 +45,13 @@ alerts-crit-desc = You're severely injured and unconscious.
 alerts-dead-name = 死んでいる
 alerts-dead-desc = あなたは死んでいますが、まだ復活することできます。
 
-alerts-health-name = Health
-alerts-health-desc = [color=green]Green[/color] good. [color=red]Red[/color] bad.
+alerts-health-name = 健康
+alerts-health-desc = [color=green]緑[/color]は良い、[color=red]赤[/color]は悪い。
 
-alerts-battery-name = Battery
+alerts-battery-name = バッテリー
 alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
 
-alerts-no-battery-name = No Battery
+alerts-no-battery-name = バッテリーなし
 alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
 
 alerts-internals-name = Toggle internals

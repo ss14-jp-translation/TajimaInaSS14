@@ -11,5 +11,5 @@ comp-window-damaged-6 = [color=red]It's extremely cracked and on the verge of sh
 ### Interaction Messages
 
 # Shown when knocking on a window
-comp-window-knock = *knock knock*
+comp-window-knock = *コンコン*
 
