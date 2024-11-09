@@ -32,8 +32,8 @@ chat-emote-name-yawn = Yawn
 chat-emote-name-snore = Snore
 
 # Message
-chat-emote-msg-scream = が叫ぶ!
-chat-emote-msg-laugh = は笑う。
+chat-emote-msg-scream = screams!
+chat-emote-msg-laugh = laughs.
 chat-emote-msg-honk = honks.
 chat-emote-msg-sigh = sighs.
 chat-emote-msg-whistle = whistles.
@@ -45,7 +45,7 @@ chat-emote-msg-thump = thumps {POSS-ADJ($entity)} tail.
 chat-emote-msg-click = clicks.
 chat-emote-msg-clap = claps!
 chat-emote-msg-snap = snaps {POSS-ADJ($entity)} fingers.
-chat-emote-msg-salute = は敬礼する。
+chat-emote-msg-salute = salutes.
 chat-emote-msg-gasp = gasps.
 chat-emote-msg-deathgasp = seizes up and falls limp, {POSS-ADJ($entity)} eyes dead and lifeless...
 chat-emote-msg-deathgasp-monkey = lets out a faint chimper as {SUBJECT($entity)} collapses and stops moving...

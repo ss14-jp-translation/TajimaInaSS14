@@ -1,13 +1,13 @@
 ### Connecting dialog when you start up the game
 
 connecting-title = Space Station 14
-connecting-exit = 出口
-connecting-retry = レトライ
+connecting-exit = Exit
+connecting-retry = Retry
 connecting-reconnect = Reconnect
 connecting-copy = Copy Message
-connecting-redial = 差起動
-connecting-redial-wait = お待ちください： { TOSTRING($time, "G3") }
-connecting-in-progress = サーバーに接続中...
+connecting-redial = Relaunch
+connecting-redial-wait = Please wait: { TOSTRING($time, "G3") }
+connecting-in-progress = Connecting to server...
 connecting-disconnected = Disconnected from server:
 connecting-tip = Don't die!
 connecting-window-tip = Tip { $numberTip }
