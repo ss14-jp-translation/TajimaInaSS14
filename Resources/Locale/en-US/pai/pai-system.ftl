@@ -18,7 +18,7 @@ pai-system-wiped-device = pAIはデバイスから消去されました。
 pai-system-stop-searching-verb-text = 検索を停止する
 pai-system-stopped-searching = デバイスがpAIの検索を停止しました。
 
-pai-system-pai-name = {$所有者}のpAI
+pai-system-pai-name = {$owner}のpAI
 pai-system-pai-name-raw = {$name} の pAI
 
 pai-system-brick-popup = pAIの回路が大音量で破裂し、消えます！
