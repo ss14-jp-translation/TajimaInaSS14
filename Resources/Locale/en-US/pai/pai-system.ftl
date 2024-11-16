@@ -6,10 +6,10 @@ pai-system-searching = pAIを検索中...
 pai-system-role-name = パーソナルAI
 pai-system-role-description＝誰かの電子友達になる！
                               (思い出は含まれません)
-pai-system-role-name-syndicate＝個人のaiをシンジケートする。
+pai-system-role-name-syndicate = 個人のaiをシンジケートする。
 pai-system-role-description-syndicate = 誰かのシンジケートの仲間になる！
                                         (思い出は*含まれません)
-pai-system-role-name-potato＝ポテト人工知能
+pai-system-role-name-potato = ポテト人工知能
 pai-system-role-description-potato＝子供のおもちゃです。そして今、あなたはその中に住んでいる。
 
 pai-system-wipe-device-verb-text = pAIを削除する。
