@@ -1,3 +1,3 @@
 # General
-intellicard-core-occupied = The AI core is already occupied by another digital consciousness.
-intellicard-core-empty = The AI core has no digital consciousness to download.
+intellicard-core-occupied = AIのコアはすでに別のデジタル意識によって占有されている。
+intellicard-core-empty = AIコアにはダウンロードするデジタル意識がない。

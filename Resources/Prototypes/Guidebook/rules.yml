@@ -2,7 +2,7 @@
   id: DefaultRuleset
   name: guide-entry-rules
   ruleEntry: true
-  text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/TajiInaLRPRules.xml"
 
 - type: guideEntry
   id: CoreRuleset
@@ -101,7 +101,7 @@
   name: guide-entry-rules-c7
   ruleEntry: true
   priority: 7
-  text: "/ServerInfo/Guidebook/ServerRules/CoreRules/RuleC7EnglishOnly.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/CoreRules/RuleC7NihongoKudasai.xml"
 
 - type: guideEntry
   id: RuleC8

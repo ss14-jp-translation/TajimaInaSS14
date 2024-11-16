@@ -9,8 +9,8 @@ generic-unknown-title = Unknown
 generic-error = error
 generic-invalid = invalid
 
-generic-hours = hours
-generic-minutes = minutes
+generic-hours = 時間
+generic-minutes = 分
 
 generic-playtime-title = Playtime
 

@@ -1,22 +1,22 @@
-If you’re new to roleplaying or are unfamiliar with IC and OOC please read on. If not, skip to the next section.
+ロールプレイが初めての方、ICとOOCに不慣れな方はこの先をお読みください。そうでない方は次のセクションに進んでください。
 
-SS14 is at its core a roleplaying game - You play a role on the station through your character which you can customise from the lobby prior to joining the game. You can select the roles or jobs your character plays via the customisation menu too. When you’re in a round playing your character, you are IC or In Character. When you’re in character you forget any knowledge of previous rounds or essentially of the outside world and you play as if you’re a member of the station's crew.
+SS14は基本的にロールプレイングゲームで、ゲームに参加する前にロビーでカスタマイズできるキャラクターを通して、ステーションで役割を演じることになる。ゲームに参加する前に、ロビーで自分のキャラクターをカスタマイズすることができます。自分のキャラクターを演じてラウンドしているときは、IC（In Character）です。キャラクターの中にいるときは、以前のラウンドや基本的に外の世界の知識は忘れ、ステーションのクルーの一員であるかのようにプレイします。
 
-Therefore, OOC or Out of Character is any conversations you have outside of the game world e.g. in the OOC chat, on discord or with your friends. You shouldn’t discuss the current round or anything that’s IC (in character) in out of character OOC chats. Likewise anything you see or read in OOC cannot be used by your character in game such as if someone on discord names a traitor or tells you they’re dying in a certain location and for you to go help them. This is known as metagaming and will get you banned if discovered.
+従って、OOC（Out of Character）とは、ゲーム世界の外でする会話のことです。例えば、OOCチャット、ディスコード、友人との会話などです。キャラクター外のOOCチャットで、現在のラウンドやIC（キャラクター内）のことについて話してはいけません。同様に、OOCで見たり読んだりしたものは、ゲーム内であなたのキャラクターが使用することはできません。例えば、ディスコードで誰かが裏切り者を名指ししたり、特定の場所で死にかけているから助けに行くように言われたりした場合です。これはメタゲームとして知られており、発見された場合はBANされます。
 
-If you suspect a player in game is metagaming (e.g. you’re a traitor and they just walk up to you and kill you without you doing anything to antagonise them) then report them via ahelp or discord.
+もしゲーム中のプレイヤーがメタゲームをしていると疑われる場合（例えば、あなたが裏切り者で、あなたが敵対するようなことを何もしていないのに、相手が近づいてきてあなたを殺すなど）、ahelpかDiscordで報告してください。
 
-To summarise, when you’re in game, don’t discuss the round anywhere else until the round is over and don’t share information about the round in OOC such as if you’re dying, where you are or if you find a traitor.
+要約すると、ゲームに参加しているときは、ラウンドが終わるまで他の場所でそのラウンドについて話してはいけません。また、OOCでそのラウンドに関する情報、例えば自分が死ぬかどうか、どこにいるか、裏切り者を見つけたかどうかなどを共有してはいけません。
 
 
-Traitors, antagonists, RDM and “self antag”
+裏切り者、敵対者、RDM、”自己敵対”
 
-If in your character customisation settings you selected the chance to become an antagonist (antag) or other traitor role, it is not guaranteed that you will be one. When a traitor gamemode round starts there is a random roll of all the players who selected the chance to become a traitor and only some get selected. They will be notified they are a traitor in chat and will have a set of objectives they can view by pressing C.
+キャラクターのカスタマイズ設定で、敵対者（antag）やその他の裏切り者になるチャンスを選択した場合、必ずそうなれるという保証はありません。裏切り者ゲームモードラウンドが始まると、裏切り者になるチャンスを選択した全プレイヤーのランダムロールが行われ、一部のプレイヤーだけが選ばれます。裏切り者に選ばれたプレイヤーはチャットで裏切り者であることを知らされ、Cボタンを押すことで見ることができる目標が設定されます。
 
-Being an antagonist is not an excuse to go on a murder spree. Your job is to complete your objectives which on occasion will include escaping alive or dying a glorious death. How you complete your objectives is up to you so murder is valid but try to have fun (ideally not at everyones expense but that’s up to you).
+裏切り者だからといって、殺人を乱発していいわけではありません。あなたの仕事は目的を達成することであり、時には生きて逃げたり、名誉の死を遂げることも含まれる。どのように目的を達成するかはあなた次第なので、殺人は有効ですが、楽しむようにしましょう（理想的には、すべての人を犠牲にしないことですが、それはあなた次第です）。
 
-If you suspect an antagonist such as a traitor or cultist etc report them to security as fast as possible and if necessary do what you can to protect yourself. Remember traitors are people too, so ideally they should be arrested and prosecuted under space law and not just murdered (but do what you need to do to survive).
+裏切り者やカルト信者などの敵対者を疑ったら、できるだけ早くセキュリティに報告し、必要であれば自分の身を守るためにできることをすること。裏切り者も人間であることを忘れないでください。ですから、理想的には、彼らは殺害されるだけでなく、宇宙法に基づいて逮捕され、起訴されるべきです（ただし、生き残るために必要なことはしてください）。
 
-RDM or random deathmatch is the act of killing someone for no reason or attempting to. If you are being attacked it is likely the other person could be an antag but if you’re unsure, ask the admins for help (ahelp) to check this when convenient.
+RDM（ランダム・デスマッチ）とは、理由もなく誰かを殺したり、殺そうとする行為のことです。もしあなたが攻撃されている場合、相手がアンタグである可能性が高いですが、わからない場合は管理者に助けを求めてください（ahelp）。
 
-Self antag or self antagonising is when you are NOT an antagonist which is determined at round start on traitor modes, and you go out of your way to break the law, damage the station or commit murder. Breaking the law is not inherently self antagging, but murdering, attacking, attempting to break into high security areas etc are examples of self antagging and will get you banned. Unless you are an official antagonist then you are a normal member of the crew who’s only objective is to complete their shift in their designated role.
+自己敵対行為とは、ラウンド開始時に裏切り者モードで決定される敵対行為者でないのに、わざわざ法律を破ったり、ステーションに損害を与えたり、殺人を犯したりすることである。法を犯すことは本質的に自己敵対行為ではないが、殺人、攻撃、厳重警備区域への侵入などは自己敵対行為の例であり、追放される。あなたが公式な敵対者でない限り、あなたは与えられた役割でシフトをこなすことだけが目的の普通のクルーです。
