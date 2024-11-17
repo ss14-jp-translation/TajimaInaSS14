@@ -1,7 +1,7 @@
 ## Action menu stuff (left panel, with hotbars etc)
 
 ui-actionmenu-title = アクション
-ui-actionmenu-filter-label = フィルター： {選択されたラベル｝
+ui-actionmenu-filter-label = フィルター：{$selectedLabels}
 ui-actionmenu-filter-button = フィルター
 ui-actionmenu-search-bar-placeholder-text = 検索
 ui-actionmenu-clear-button = クリア
