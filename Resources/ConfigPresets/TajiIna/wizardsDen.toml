@@ -3,7 +3,7 @@
 # Yes, we know this is a modified Wizard's Den config preset.
 
 [game]
-desc             = "[Vanilla][RP]Space Station 14の日本語サーバー。"
+desc = "[Vanilla][RP]Space Station 14の日本語サーバー。"
 lobbyenabled     = true
 soft_max_players = 70
 panic_bunker.enabled = false

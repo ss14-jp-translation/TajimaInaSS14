@@ -21,8 +21,8 @@ trait-muted-desc = 声が出ない。
 trait-paracusia-name = パラキューシア
 trait-paracusia-desc = 実際にはない音が聞こえる。
 
-trait-unrevivable-name = Unrevivable
-trait-unrevivable-desc = You are unable to be revived by defibrillators.
+trait-unrevivable-name = 復活不可能
+trait-unrevivable-desc = 除細動器では蘇生できない。
 
 #trait-pirate-accent-name = Pirate accent
 #trait-pirate-accent-desc = You can't stop speaking like a pirate!
