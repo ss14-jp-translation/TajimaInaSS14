@@ -23,8 +23,9 @@ alerts-too-hot-name = [color=red]熱すぎる[/color]。
 alerts-too-hot-desc = [color=red]暑すぎる！[/color]
 
 alerts-weightless-name = 無重力
-alerts-weightless-desc = 重力があなたに影響しなくなり、あなたはあてもなく漂っています。何かしっかりしたものを見つけてつかむか、反対方向に何かを投げたり撃ったりしてください。
-マグブーツやジェットパックを使用すると、よりコントロールしながら移動できます。
+alerts-weightless-desc =
+    重力があなたに影響しなくなり、あなたはあてもなく漂っています。何かしっかりしたものを見つけてつかむか、反対方向に何かを投げたり撃ったりしてください。
+    マグブーツやジェットパックを使用すると、よりコントロールしながら移動できます。
 
 alerts-stunned-name = [color=yellow]Stunned[/color]
 alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.
