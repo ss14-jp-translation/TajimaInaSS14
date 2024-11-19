@@ -1,16 +1,16 @@
-humanoid-profile-editor-randomize-everything-button = Randomize everything
-humanoid-profile-editor-name-label = Name:
-humanoid-profile-editor-name-random-button = Randomize
-humanoid-profile-editor-appearance-tab = Appearance
+humanoid-profile-editor-randomize-everything-button = すべてをランダム化する
+humanoid-profile-editor-name-label = 名：
+humanoid-profile-editor-name-random-button = ランダム化
+humanoid-profile-editor-appearance-tab = 体裁
 humanoid-profile-editor-clothing = Show clothing
-humanoid-profile-editor-clothing-show = Show
+humanoid-profile-editor-clothing-show = 見せる
 humanoid-profile-editor-sex-label = Sex:
 humanoid-profile-editor-sex-male-text = Male
 humanoid-profile-editor-sex-female-text = Female
 humanoid-profile-editor-sex-unsexed-text = None
-humanoid-profile-editor-age-label = Age:
+humanoid-profile-editor-age-label = 歳：
 humanoid-profile-editor-skin-color-label = Skin color:
-humanoid-profile-editor-species-label = Species:
+humanoid-profile-editor-species-label = 種族：
 humanoid-profile-editor-pronouns-label = Pronouns:
 humanoid-profile-editor-pronouns-male-text = He / Him
 humanoid-profile-editor-pronouns-female-text = She / Her
@@ -46,7 +46,7 @@ humanoid-profile-editor-antag-preference-yes-button = Yes
 humanoid-profile-editor-antag-preference-no-button = No
 
 humanoid-profile-editor-job-priority-high-button = High
-humanoid-profile-editor-job-priority-medium-button = Medium
+humanoid-profile-editor-job-priority-medium-button = 中
 humanoid-profile-editor-job-priority-low-button = Low
 humanoid-profile-editor-job-priority-never-button = Never
 humanoid-profile-editor-naming-rules-warning = Warning: Offensive or LRP IC names and descriptions will lead to admin intervention on this server. Read our \[Rules\] for more.
@@ -57,7 +57,7 @@ humanoid-profile-editor-flavortext-tab = Description
 humanoid-profile-editor-traits-tab = Traits
 humanoid-profile-editor-no-traits = No traits available
 
-humanoid-profile-editor-trait-count-hint = Points available: [{$current}/{$max}]
+humanoid-profile-editor-trait-count-hint = 利用可能なポイント：[{$current}/{$max}]
 
 trait-category-disabilities = Disabilities
 trait-category-speech = Speech traits
