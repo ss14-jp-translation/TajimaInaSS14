@@ -1,7 +1,7 @@
 ### Connecting dialog when you start up the game
 
 connecting-title = Space Station 14
-connecting-exit = 出口
+connecting-exit = 終了
 connecting-retry = レトライ
 connecting-reconnect = Reconnect
 connecting-copy = Copy Message
