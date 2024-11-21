@@ -4,17 +4,17 @@ Space Station 14 (ja_JP)は、[Robust Toolbox](https://github.com/space-wizards/
 
 これはSS14-ja_JPのプライマリリポジトリです。RobustToolboxのフォークを防ぐため、”コンテンツ”パックがクライアントとサーバーから読み込まれます。このコンテンツパックには、特定のサーバーでゲームをプレイするために必要なものがすべて含まれています。
 
-If you want to host or create content for SS14-ja_JP, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+SS14-ja_JPのホスティングやコンテンツ作成を希望される方のために、このレポにはRobustToolboxと新しいコンテンツパックを開発するためのコンテンツパックも含まれています。
 
 ## リンク
 
-[SS14 Website](https://spacestation14.io/) | [Discord](https://discord.gg/teSumU7YrT) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
+[SS14 Website](https://spacestation14.io/) | [Discord [server by inatajimao5w]](https://discord.gg/teSumU7YrT) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
 
 ## 文書化/ウィキ
 
 ~~Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.~~
 
-## Contributing (main SS14 repo)
+## Contributing (still untranslated at the moment)
 
 We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
 Just make sure your changes and pull requests are in accordance with the [contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
