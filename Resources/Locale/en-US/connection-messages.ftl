@@ -52,6 +52,6 @@ cmd-blacklistremove-not-found = '{$username}'が見つかりません。
 cmd-blacklistremove-arg-player = [プレイヤー]を削除します。
 
 baby-jail-account-denied = このサーバーは初心者用のサーバーです。古すぎるアカウントやホワイトリストにないアカウントによる新規接続は受け付けていません。他のサーバーもチェックして、Space Station 14のすべてをご覧ください。楽しんでください！
-baby-jail-account-denied-reason = このサーバーは初心者サーバーです。古すぎるアカウントやホワイトリストにないアカウントによる新規接続は受け付けていません。他のサーバーもチェックして、Space Station 14のすべてをご覧ください。楽しんでください！理由："{$reason}」
-baby-jail-account-reason-account = あなたのスペースステーション14のアカウントは古すぎます。分}秒未満でなければなりません。
-baby-jail-account-reason-overall = サーバーでのプレイ時間全体が{$分} $分未満である必要があります。
+baby-jail-account-denied-reason = このサーバーは初心者サーバーです。古すぎるアカウントやホワイトリストにないアカウントによる新規接続は受け付けていません。他のサーバーもチェックして、Space Station 14のすべてをご覧ください。楽しんでください！理由："{$reason}"
+baby-jail-account-reason-account = あなたのスペースステーション14のアカウントは古すぎます。{$minutes}秒未満でなければなりません。
+baby-jail-account-reason-overall = サーバーでのプレイ時間全体が{$minutes} $分未満である必要があります。
