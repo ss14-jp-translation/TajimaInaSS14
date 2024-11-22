@@ -25,8 +25,8 @@ ban-banned-3 = 新しいアカウントを作成するなど、この禁止を�
 soft-player-cap-full = サーバーがいっぱいです！
 panic-bunker-account-denied = このサーバーはパニックバンカーモードになっています。特定の条件を満たしていないアカウントによる新規接続は一時的に受け付けられません。後で再試行してください。
 panic-bunker-account-denied-reason = このサーバーはパニックバンカーモードになっています。特定の条件を満たしていないアカウントによる新規接続は一時的に受け付けられません。後で再試行してください。理由: "{$reason}」
-panic-bunker-account-reason-account = あなたのスペースステーション14のアカウントは新しすぎます。分}秒より古くなければなりません。
-panic-bunker-account-reason-overall = サーバーでのプレイ時間全体が{$分} $分より長くなければなりません。
+panic-bunker-account-reason-account = あなたのスペースステーション14のアカウントは新しすぎます。{$minutes}}秒より古くなければなりません。
+panic-bunker-account-reason-overall = サーバーでのプレイ時間全体が{$minutes} $minutesより長くなければなりません。
 
 whitelist-playtime = このサーバーに参加するのに十分なプレイ時間がありません。このサーバーに参加するには少なくとも{$minutes}分のプレイタイムが必要です。
 whitelist-player-count = このサーバーは現在プレイヤーを受け付けていません。後で再試行してください。
