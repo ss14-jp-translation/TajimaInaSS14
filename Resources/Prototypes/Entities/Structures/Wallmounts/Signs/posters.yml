@@ -31,7 +31,7 @@
   parent: BaseSign
   id: PosterBroken
   name: broken poster
-  description: "You can't make out anything from the poster's original print. It's ruined."
+  description: "ポスターのオリジナルのプリントからは何も理解できません。台無しになっています。"
   components:
   - type: Sprite
     drawdepth: WallTops
@@ -54,7 +54,7 @@
   parent: PosterBase
   id: PosterContrabandFreeTonto
   name: "Free Tonto"
-  description: "A salvaged shred of a much larger flag, colors bled together and faded from age."
+  description: "はるかに大きな旗の破片を回収したもので、色が混ざり合って経年劣化で色あせています。"
   components:
   - type: Sprite
     state: poster1_contraband
@@ -495,8 +495,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandBeachStarYamamoto
-  name: "Beach Star Yamamoto!"
-  description: "A wall scroll depicting an old swimming anime with girls in small swim suits. You feel more weebish the longer you look at it."
+  name: "ビーチスター山本さん！"
+  description: "昔の水泳アニメを小さな水着を着た女の子たちが描いたポスター。見れば見るほどオタク気分になります。"
   components:
   - type: Sprite
     state: poster52_contraband
@@ -712,8 +712,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitSpaceCops
-  name: "Space Cops."
-  description: "A poster advertising the television show Space Cops."
+  name: "Space Cops"
+  description: "テレビ番組「スペースコップス」の宣伝ポスター。"
   components:
   - type: Sprite
     state: poster13_legit
@@ -721,8 +721,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitUeNo
-  name: "Ue No."
-  description: "This thing is all in Japanese."
+  name: "上の"
+  description: "逆さまだよ！"
   components:
   - type: Sprite
     state: poster14_legit
@@ -902,7 +902,7 @@
   parent: PosterBase
   id: PosterLegitNoERP
   name: "No ERP"
-  description: "This poster reminds the crew that Eroticism and Pornography are banned on Nanotrasen stations."
+  description: "このポスターは、Nanotrasenのステーションではエロティシズムとポルノが禁止されていることを乗組員に思い出させます。"
   components:
   - type: Sprite
     state: poster34_legit
@@ -929,7 +929,7 @@
   parent: PosterBase
   id: PosterLegitThereIsNoGasGiant
   name: "There Is No Gas Giant"
-  description: "Nanotrasen has issued posters, like this one, to all stations reminding them that rumours of a gas giant are false."
+  description: "Nanotrasenは、ガス巨星の噂は誤りであることを注意喚起する、このようなポスターをすべての放送局に配布しました。"
   components:
   - type: Sprite
     state: poster37_legit
@@ -937,8 +937,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitJustAWeekAway
-  name: "Just a Week Away..."
-  description: A poster advertising a long delayed project, it still claims it to be 'just a week away...'
+  name: "ほんの一週間先..."
+  description: 長らく遅れているプロジェクトを宣伝するポスター。それでも「あと 1 週間で...」と謳っている。
   components:
   - type: Sprite
     state: poster38_legit
@@ -946,8 +946,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitSecWatch
-  name: "Sec is Watching You"
-  description: "A poster reminding you that security is watching your every move."
+  name: "SEC:Watch"
+  description: "SECが開発した新しいステルスゲーム。"
   components:
   - type: Sprite
     state: poster39_legit
