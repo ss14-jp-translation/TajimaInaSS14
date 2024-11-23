@@ -144,7 +144,7 @@
   parent: PosterBase
   id: PosterContrabandRIPBadger
   name: "RIP Badger"
-  description: "This seditious poster references Nanotrasen's genocide of a space station full of badgers."
+  description: "この扇動的なポスターは、アナグマでいっぱいの宇宙ステーションに対するNanotrasenの大量虐殺に言及しています。"
   components:
   - type: Sprite
     state: poster11_contraband
@@ -243,7 +243,7 @@
   parent: PosterBase
   id: PosterContrabandKosmicheskayaStantsiya
   name: "Kosmicheskaya Stantsiya 13 Does Not Exist"
-  description: "A poster mocking CentComm's denial of the existence of the derelict station near Space Station 13."
+  description: "CentCommがSpace Station 13 近くの廃墟ステーションの存在を否定していることを嘲笑するポスター。"
   components:
   - type: Sprite
     state: poster22_contraband
@@ -251,8 +251,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandRebelsUnite
-  name: "Rebels Unite"
-  description: "A poster urging the viewer to rebel against Nanotrasen."
+  name: "反乱軍団結"
+  description: "Nanotrasenへの反抗を訴えるポスター。"
   components:
   - type: Sprite
     state: poster23_contraband
@@ -288,7 +288,7 @@
   parent: PosterBase
   id: PosterContrabandDDayPromo
   name: "D-Day Promo"
-  description: "A promotional poster for some rapper."
+  description: "某ラッパーの宣伝ポスター。"
   components:
   - type: Sprite
     state: poster27_contraband
