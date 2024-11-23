@@ -4,5 +4,6 @@ server-info-discord-button = Discord
 server-info-website-button = Website
 server-info-wiki-button = Wiki
 server-info-forum-button = Forum
-server-info-report-button = バグ報告
+server-info-telegram-button = Telegram
+server-info-report-button = バグを報告する
 server-info-credits-button = クレジット
