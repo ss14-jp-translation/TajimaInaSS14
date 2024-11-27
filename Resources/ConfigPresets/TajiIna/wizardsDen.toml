@@ -1,0 +1,44 @@
+# Base configuration preset used on all Taji Ina servers.
+# Loaded before server-specific config presets by configuration.
+# Yes, we know this is a modified Wizard's Den config preset.
+
+[game]
+desc = "[Vanilla][RP]Space Station 14の日本語サーバー。"
+lobbyenabled     = true
+soft_max_players = 80
+panic_bunker.enabled = false
+panic_bunker.disable_with_admins = false
+panic_bunker.enable_without_admins = false
+panic_bunker.show_reason = true
+panic_bunker.custom_reason = "You have not played on a Taji Ina server long enough to connect to this server. Please play on Taji Ina Lizard or Farm Grass Hopper until you have more playtime."
+
+[infolinks]
+bug_report = "https://github.com/bedroomvampire/SS14-ja_JP/issues/new/choose"
+discord    = "https://discord.gg/teSumU7YrT"
+#forum      = "https://forum.spacestation14.io"
+github     = "https://github.com/bedroomvampire/SS14-ja_JP"
+#patreon    = "https://www.patreon.com/spacestation14"
+#website    = "https://spacestation14.io"
+#wiki       = "https://wiki.spacestation14.io"
+#appeal     = "https://appeal.ss14.io"
+
+[server]
+rules_file = "StandardRuleset"
+
+[net]
+max_connections = 1024
+
+[vote]
+restart_required_ratio = 0.7
+
+[netres]
+limit = 10.0
+
+[admin]
+see_own_notes = true
+deadmin_on_join = true
+new_player_threshold = 600
+alert.min_players_sharing_connection = 2
+
+[atmos]
+max_explosion_range = 5

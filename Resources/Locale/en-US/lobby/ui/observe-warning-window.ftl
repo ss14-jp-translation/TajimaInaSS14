@@ -1,7 +1,7 @@
-observe-nevermind = Nevermind
-observe-confirm = Observe
-observe-warning-1 = Are you sure you want to observe?
-observe-warning-2 = You cannot play in the round if you do so.
-observe-warning-window-title = Warning
-observe-as-admin = Admin Observe
-observe-as-player = Player Observe
+observe-nevermind = いいえ
+observe-confirm = はい
+observe-warning-1 = 本当に見学しますか？
+observe-warning-2 = 見学するとラウンドに参加できません。
+observe-warning-window-title = 警告
+observe-as-admin = アドミン観察
+observe-as-player = プレーヤー観察

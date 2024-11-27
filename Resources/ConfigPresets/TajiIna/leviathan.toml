@@ -1,0 +1,9 @@
+# Configuration preset used on Wizard's Den Leviathan
+
+# Nothing specific yet
+
+[game]
+hostname = "[JP]田島稲のSS14サーバー"
+
+[hub]
+tags = "lang:ja,region:unspecified,rp:low"
