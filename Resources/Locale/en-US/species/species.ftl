@@ -1,15 +1,15 @@
 ﻿## Species Names
 
-species-name-human = Human
-species-name-dwarf = Dwarf
-species-name-reptilian = Reptilian
-species-name-slime = Slime Person
+species-name-human = 人間
+species-name-dwarf = ドワーフ
+species-name-reptilian = 爬虫類人
+species-name-slime = スライム人
 species-name-diona = Diona
-species-name-arachnid = Arachnid
-species-name-moth = Moth Person
-species-name-skeleton = Skeleton
+species-name-arachnid = クモムシ人
+species-name-moth = 蛾人
+species-name-skeleton = 骸骨人
 species-name-vox = Vox
 
 ## Misc species things
 
-snail-hurt-by-salt-popup = The salty solution burns like acid!
+snail-hurt-by-salt-popup = 塩辛い溶液が酸のように燃える！
