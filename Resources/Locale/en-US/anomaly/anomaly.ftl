@@ -1,19 +1,19 @@
-anomaly-component-contact-damage = The anomaly sears off your skin!
+anomaly-component-contact-damage = 異常が皮膚を炙り落とす！
 
-anomaly-vessel-component-anomaly-assigned = Anomaly assigned to vessel.
-anomaly-vessel-component-not-assigned = This vessel is not assigned to any anomaly. Try using a scanner on it.
-anomaly-vessel-component-assigned = This vessel is currently assigned to an anomaly.
+anomaly-vessel-component-anomaly-assigned = 船舶に割り当てられた異常。
+anomaly-vessel-component-not-assigned = この船はどの異常にも割り当てられていない。スキャナを使用してみてください。
+anomaly-vessel-component-assigned = この船は現在アノマリーに割り当てられている。
 
-anomaly-particles-delta = Delta particles
-anomaly-particles-epsilon = Epsilon particles
-anomaly-particles-zeta = Zeta particles
-anomaly-particles-omega = Omega particles
-anomaly-particles-sigma = Sigma particles
+anomaly-particles-delta = デルタ粒子。
+anomaly-particles-epsilon = イプシロン粒子。
+anomaly-particles-zeta = ゼータ粒子。
+anomaly-particles-omega = オメガ粒子
+anomaly-particles-sigma = シグマ粒子
 
-anomaly-scanner-component-scan-complete = Scan complete!
+anomaly-scanner-component-scan-complete = スキャン完了！
 
-anomaly-scanner-ui-title = anomaly scanner
-anomaly-scanner-no-anomaly = No anomaly currently scanned.
+anomaly-scanner-ui-title = アノマリスキャナー
+anomaly-scanner-no-anomaly = 現在スキャンされている異常はない。
 anomaly-scanner-severity-percentage = Current severity: [color=gray]{$percent}[/color]
 anomaly-scanner-severity-percentage-unknown = Current severity: [color=red]ERROR[/color]
 anomaly-scanner-stability-low = Current anomaly state: [color=gold]Decaying[/color]
@@ -33,7 +33,7 @@ anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Containment ty
 anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Transformation type:[/color] [color=red]ERROR[/color]
 anomaly-scanner-pulse-timer = Time until next pulse: [color=gray]{$time}[/color]
 
-anomaly-gorilla-core-slot-name = Anomaly core
+anomaly-gorilla-core-slot-name = アノマリーコア
 anomaly-gorilla-charge-none = It has no [bold]anomaly core[/bold] inside of it.
 anomaly-gorilla-charge-limit = It has [color={$count ->
     [3]green
@@ -66,13 +66,13 @@ anomaly-generator-charges = {$charges ->
     [one] {$charges} charge
     *[other] {$charges} charges
 }
-anomaly-generator-announcement = An anomaly has been generated!
+anomaly-generator-announcement = 異常が発生しました！
 
-anomaly-command-pulse = Pulses a target anomaly
-anomaly-command-supercritical = Makes a target anomaly go supercritical
+anomaly-command-pulse = 対象のアノマリーにパルスを送る。
+anomaly-command-supercritical = 対象の異常を超臨界状態にする。
 
 # Flavor text on the footer
-anomaly-generator-flavor-left = Anomaly may spawn inside the operator.
+anomaly-generator-flavor-left = アノマリーがオペレーターの内側に発生する。
 anomaly-generator-flavor-right = v1.1
 
 anomaly-behavior-unknown = [color=red]ERROR. Cannot be read.[/color]

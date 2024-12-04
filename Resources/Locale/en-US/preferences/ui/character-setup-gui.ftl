@@ -1,5 +1,5 @@
 character-setup-gui-character-setup-label = キャラクター設定
-character-setup-gui-character-setup-adminremarks-ボタン = アドミンの備考
+character-setup-gui-character-setup-adminremarks-button = アドミンの備考
 character-setup-gui-character-setup-stats-button = 統計情報
 character-setup-gui-character-setup-rules-button = ルール
 character-setup-gui-character-setup-close-button = 閉じる

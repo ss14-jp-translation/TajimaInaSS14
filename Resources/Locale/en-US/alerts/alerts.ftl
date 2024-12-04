@@ -49,13 +49,13 @@ alerts-health-name = 健康
 alerts-health-desc = [color=green]緑[/color]は良い、[color=red]赤[/color]は悪い。
 
 alerts-battery-name = バッテリー
-alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
+alerts-battery-desc = バッテリーが消耗すると、能力が使えなくなる。
 
 alerts-no-battery-name = バッテリーなし
 alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
 
-alerts-internals-name = Toggle internals
-alerts-internals-desc = Toggles your gas tank internals on or off.
+alerts-internals-name = 内部部品の切り替え
+alerts-internals-desc = ガスタンクの内部部品のオン・オフを切り替えます。
 
 alerts-piloting-name = Piloting Shuttle
 alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
@@ -64,7 +64,7 @@ alerts-hunger-name = [color=yellow]ひもじい[/color]
 alerts-hunger-desc = Some food would be good right about now.
 
 alerts-stamina-name = スタミナ
-alerts-stamina-desc = Stuns you if it is too low.
+alerts-stamina-desc = 低すぎると気絶する。
 
 alerts-starving-name = [color=red]とてもひもじい[/color]
 alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore.
