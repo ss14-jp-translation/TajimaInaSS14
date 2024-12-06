@@ -1,49 +1,46 @@
-game-ticker-restart-round = Restarting round...
-game-ticker-start-round = The round is starting now...
-game-ticker-start-round-cannot-start-game-mode-fallback = Failed to start {$failedGameMode} mode! Defaulting to {$fallbackMode}...
-game-ticker-start-round-cannot-start-game-mode-restart = Failed to start {$failedGameMode} mode! Restarting round...
-game-ticker-start-round-invalid-map = Selected map {$map} is inelligible for gamemode {$mode}. Gamemode may not function as intended...
-game-ticker-unknown-role = Unknown
-game-ticker-delay-start = Round start has been delayed for {$seconds} seconds.
-game-ticker-pause-start = Round start has been paused.
-game-ticker-pause-start-resumed = Round start countdown is now resumed.
-game-ticker-player-join-game-message = Welcome to Space Station 14! If this is your first time playing, be sure to read the game rules, and don't be afraid to ask for help in LOOC (local OOC) or OOC (usually available only between rounds).
-game-ticker-get-info-text = Hi and welcome to [color=white]Space Station 14![/color]
-                            The current round is: [color=white]#{$roundId}[/color]
-                            The current player count is: [color=white]{$playerCount}[/color]
-                            The current map is: [color=white]{$mapName}[/color]
-                            The current game mode is: [color=white]{$gmTitle}[/color]
+game-ticker-restart-round = ラウンドを再開します...
+game-ticker-start-round = ラウンドを開始します。
+game-ticker-start-round-cannot-start-game-mode-fallback = {$failedGameMode}モードの開始に失敗しました！fallbackMode}にデフォルト設定されています。
+game-ticker-start-round-cannot-start-game-mode-restart = {$failedGameMode}モードの開始に失敗しました！ラウンドを再開します...
+game-ticker-start-round-invalid-map = 選択されたマップ{$map}はゲームモード{$mode}では無効です。ゲームモードが意図したように機能しない可能性があります。
+game-ticker-unknown-role = 不明です。
+game-ticker-delay-start = ラウンド開始が{$seconds}秒遅れています。
+game-ticker-pause-start = ラウンド開始が一時停止されました。
+game-ticker-pause-start-resumed = ラウンド開始のカウントダウンが再開されました。
+game-ticker-player-join-game-message = Space Station 14へようこそ！初めてプレイされる方は、必ずゲームルールを読み、LOOC（ローカルOOC）やOOC（通常はラウンド間のみ利用可能）で助けを求めることを恐れないでください。
+game-ticker-get-info-text = [color=white]Space Station 14へようこそ！[/color]
+                            現在のラウンドは：[color=white]#{$roundId}[/color]
+                            現在の選手数は：[color=white]{$playerCount}[/color]
+                            現在の地図は：[color=white]{$mapName}[/color]
+                            現在のゲームモードは：[color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-get-info-preround-text = Hi and welcome to [color=white]Space Station 14![/color]
-                            The current round is: [color=white]#{$roundId}[/color]
-                            The current player count is: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
-                                [one] is
-                                *[other] are
-                            } ready)
-                            The current map is: [color=white]{$mapName}[/color]
-                            The current game mode is: [color=white]{$gmTitle}[/color]
+game-ticker-get-info-preround-text = [color=white]Space Station 14へようこそ！[/color]
+                            現在のラウンドは：[color=white]#{$roundId}[/color]
+                            現在の選手数は：[color=white]{$playerCount}[/color]
+                            現在の地図は：[color=white]{$mapName}[/color]
+                            現在のゲームモードは：[color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-no-map-selected = [color=yellow]Map not yet selected![/color]
-game-ticker-player-no-jobs-available-when-joining = When attempting to join to the game, no jobs were available.
+game-ticker-no-map-selected = [color=yellow]地図はまだ選択されていない！[/color]
+game-ticker-player-no-jobs-available-when-joining = ゲームに参加しようとすると、利用可能な職業がありませんでした。
 
 # Displayed in chat to admins when a player joins
-player-join-message = Player {$name} joined.
-player-first-join-message = Player {$name} joined for the first time.
+player-join-message = {$name}が加入した。
+player-first-join-message = {$name}が初参加。
 
 # Displayed in chat to admins when a player leaves
-player-leave-message = Player {$name} left.
+player-leave-message = {$name}去った。
 
-latejoin-arrival-announcement = {$character} ({$job}) { CONJUGATE-HAVE($entity) } arrived at the station!
-latejoin-arrival-announcement-special = {$job} {$character} on deck!
-latejoin-arrival-sender = Station
-latejoin-arrivals-direction = A shuttle transferring you to your station will arrive shortly.
-latejoin-arrivals-direction-time = A shuttle transferring you to your station will arrive in {$time}.
-latejoin-arrivals-dumped-from-shuttle = A mysterious force prevents you from leaving with the arrivals shuttle.
-latejoin-arrivals-teleport-to-spawn = A mysterious force teleports you off the arrivals shuttle. Have a safe shift!
+latejoin-arrival-announcement = {$job}の{$character}がステーションに到着した！
+latejoin-arrival-announcement-special = {$job}・{$character}がデッキに到着！
+latejoin-arrival-sender = ステーション
+latejoin-arrivals-direction = まもなくステーションに到着します。
+latejoin-arrivals-direction-time = あなたをステーションに送るシャトルは{$time}に到着します。
+latejoin-arrivals-dumped-from-shuttle = 不思議な力によって、到着シャトルで出発することができない。
+latejoin-arrivals-teleport-to-spawn = 不思議な力によって到着シャトルからテレポートされる。安全なシフトを！
 
 preset-not-enough-ready-players = Can't start {$presetName}. Requires {$minimumPlayers} players but we have {$readyPlayersCount}.
 preset-no-one-ready = Can't start {$presetName}. No players are ready.
 
-game-run-level-PreRoundLobby = Pre-round lobby
-game-run-level-InRound = In round
-game-run-level-PostRound = Post round
+game-run-level-PreRoundLobby = ラウンド前ロビー
+game-run-level-InRound = ラウンド中
+game-run-level-PostRound = ラウンド終了後
