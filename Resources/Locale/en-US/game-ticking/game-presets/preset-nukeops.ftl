@@ -1,35 +1,35 @@
-﻿nukeops-title = Nuclear Operatives
-nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+﻿nukeops-title = 核作戦
+nukeops-description = 核工作員がステーションを狙っている。核兵器ディスクを守ることで、核兵器の起動と爆発を防ごう！
 
 nukeops-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go ! Death to Nanotrasen!
-nukeops-briefing = Your objectives are simple. Deliver the payload and make sure it detonates. Begin mission.
+    あなたは核工作員だ。あなたの目的は{$station}を爆破し、瓦礫の山と化すことだ。あなたの上司であるシンジケートは、この任務に必要な道具をあなたに提供した。
+    {$name}作戦、スタート！Nanotrasenをぶっ壊す！
+nukeops-briefing = 目的は簡単だ。ペイロードを届け、確実に爆発させること。ミッション開始
 
-nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]
-nukeops-opsminor = [color=crimson]Syndicate minor victory![/color]
-nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Crew minor victory![/color]
-nukeops-crewmajor = [color=green]Crew major victory![/color]
+nukeops-opsmajor = [color=crimson]シンジケート大勝利！[/color]
+nukeops-opsminor = [color=crimson]シンジケート小勝利！[/color]
+nukeops-neutral = [color=yellow]中立の結果！[/color]
+nukeops-crewminor = [color=green]クルー小勝利！[/color]
+nukeops-crewmajor = [color=green]クルー大勝利！[/color]
 
-nukeops-cond-nukeexplodedoncorrectstation = The nuclear operatives managed to blow up the station.
-nukeops-cond-nukeexplodedonnukieoutpost = The nuclear operative outpost was destroyed by a nuclear blast.
-nukeops-cond-nukeexplodedonincorrectlocation = The nuclear bomb was detonated off-station.
-nukeops-cond-nukeactiveinstation = The nuclear bomb was left armed on-station.
-nukeops-cond-nukeactiveatcentcom = The nuclear bomb was delivered to Central Command!
-nukeops-cond-nukediskoncentcom = The crew escaped with the nuclear authentication disk.
-nukeops-cond-nukedisknotoncentcom = The crew left the nuclear authentication disk behind.
-nukeops-cond-nukiesabandoned = The nuclear operatives were abandoned.
-nukeops-cond-allnukiesdead = All nuclear operatives have died.
-nukeops-cond-somenukiesalive = Some nuclear operatives died.
-nukeops-cond-allnukiesalive = No nuclear operatives died.
+nukeops-cond-nukeexplodedoncorrectstation = 核工作員はステーションを爆破することに成功した。
+nukeops-cond-nukeexplodedonnukieoutpost = 核工作員の前哨基地は核爆発によって破壊された。
+nukeops-cond-nukeexplodedonincorrectlocation = 核爆弾はステーション外で爆発した。
+nukeops-cond-nukeactiveinstation = 核爆弾は局内に武装されたまま放置された。
+nukeops-cond-nukeactiveatcentcom = 核爆弾は中央司令部に届けられた！
+nukeops-cond-nukediskoncentcom = 乗組員は核認証ディスクを持って脱出した。
+nukeops-cond-nukedisknotoncentcom = 乗組員は核認証ディスクを残した
+nukeops-cond-nukiesabandoned = 核工作員は見捨てられた
+nukeops-cond-allnukiesdead = 核工作員は全員死亡した。
+nukeops-cond-somenukiesalive = 一部の核工作員が死亡した。
+nukeops-cond-allnukiesalive = 核工作員は死亡しなかった。
 
-nukeops-list-start = The operatives were:
+nukeops-list-start = 工作員はこうだ：
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Nukeops.
-nukeops-no-one-ready = No players readied up! Can't start Nukeops.
+nukeops-not-enough-ready-players = ゲームのために準備されたプレーヤーが足りない！必要な{$minimumPlayers}人のうち{$readyPlayersCount}人が準備完了。Nukeopsを開始できません。
+nukeops-no-one-ready = 準備できたプレイヤーがいません！Nukeopsを開始できません。
 
-nukeops-role-commander = Commander
-nukeops-role-agent = Agent
-nukeops-role-operator = Operator
+nukeops-role-commander = 団長
+nukeops-role-agent = エージェント
+nukeops-role-operator = オペレーター

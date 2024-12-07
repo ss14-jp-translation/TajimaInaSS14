@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Urist McCookie
+  name: ウリスト・マククッキー
   parent: BaseMobGingerbread
   id: MobGingerbread
   components:

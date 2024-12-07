@@ -1,6 +1,6 @@
 game-ticker-restart-round = ラウンドを再開します...
 game-ticker-start-round = ラウンドを開始します。
-game-ticker-start-round-cannot-start-game-mode-fallback = {$failedGameMode}モードの開始に失敗しました！fallbackMode}にデフォルト設定されています。
+game-ticker-start-round-cannot-start-game-mode-fallback = {$failedGameMode}モードの開始に失敗しました！{fallbackMode}にデフォルト設定されています。
 game-ticker-start-round-cannot-start-game-mode-restart = {$failedGameMode}モードの開始に失敗しました！ラウンドを再開します...
 game-ticker-start-round-invalid-map = 選択されたマップ{$map}はゲームモード{$mode}では無効です。ゲームモードが意図したように機能しない可能性があります。
 game-ticker-unknown-role = 不明です。
