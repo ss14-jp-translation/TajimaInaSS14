@@ -46,25 +46,19 @@ rev-lost = 司令部が生き残り、頭目の革命家が全員殺された。
 
 rev-stalemate = 革命軍と司令部が全員死亡。引き分け。
 
-rev-reverse-stalemate＝司令部と頭脳革命軍の両方が生き残った。
+rev-reverse-stalemate = 司令部と頭脳革命軍の両方が生き残った。
 
 rev-headrev-count = ヘッド革命家は{$initialCount}人いた：
 
-rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) converted {$count} {$count ->
-    [one] person
-    *[other] people
-}
+rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color])は{$count}人を改心させた
 
-rev-headrev-name = [color=#5e9cff]{$name}[/color] converted {$count} {$count ->
-    [one] person
-    *[other] people
-}
+rev-headrev-name = [color=#5e9cff]{$name}[/color]は{$count}人を改心させた
 
 ## Deconverted window
 
-rev-deconverted-title = Deconverted!
+rev-deconverted-title = もう改心していない！
 rev-deconverted-text =
-    As the last headrev has died, the revolution is over.
+    最後のヘッドレフが死んだので、革命は終わった。
 
-    You are no longer a revolutionary, so be nice.
-rev-deconverted-confirm = Confirm
+    あなたはもう革命家ではないのだから、いい子にしていなさい。
+rev-deconverted-confirm = はい
