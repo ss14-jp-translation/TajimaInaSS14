@@ -9,6 +9,7 @@ species-name-arachnid = クモムシ人
 species-name-moth = 蛾人
 species-name-skeleton = 骸骨人
 species-name-vox = Vox
+species-name-gingerbread = delicious baked good
 
 ## Misc species things
 
