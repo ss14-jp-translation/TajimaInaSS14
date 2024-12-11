@@ -1,37 +1,37 @@
-ui-vote-type-restart = Restart round
-ui-vote-type-gamemode = Next gamemode
-ui-vote-type-map = Next map
-ui-vote-type-votekick = Votekick
+ui-vote-type-restart = ラウンドを再開する
+ui-vote-type-gamemode = 次のゲームモード
+ui-vote-type-map = 次のマップ
+ui-vote-type-votekick = 投票キック
 
 # Votekick reasons
-ui-vote-votekick-type-raiding = Raiding
-ui-vote-votekick-type-cheating = Cheating
-ui-vote-votekick-type-spamming = Spamming
+ui-vote-votekick-type-raiding = 襲撃
+ui-vote-votekick-type-cheating = 不正行為
+ui-vote-votekick-type-spamming = スパム行為
 
 # Window title of the vote create menu
-ui-vote-create-title = Call Vote
+ui-vote-create-title = 投票を呼び出す
 
 # Submit button in the vote create button
-ui-vote-create-button = Call Vote
+ui-vote-create-button = 投票を呼び出す
 
 # Follow button in the vote create menu
-ui-vote-follow-button = Follow User
+ui-vote-follow-button = ユーザーをフォローする
 
 # Timeout text if a standard vote type is currently on timeout.
-ui-vote-type-timeout = This vote was called too recently ({$remaining})
+ui-vote-type-timeout = この投票は最近呼ばれすぎました ({$remaining})。
 
 # Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available = This vote type has been disabled
+ui-vote-type-not-available = この投票タイプは無効化されています
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
-  This vote option is only available to players who have enough playtime or are whitelisted.
-  In addition, you must have been a ghost for { $timeReq } seconds.
+  この投票オプションは、十分なプレイ時間があるか、ホワイトリストに登録されているプレイヤーだけが利用できます。
+  さらに、{ $timeReq }秒間ゴーストである必要があります。
 
 # Warning to not abuse a specific vote option.
 ui-vote-abuse-warning =
-  Warning!
-  Abuse of the votekick system may result in an indefinite ban!
+  警告！
+  ボーテキックシステムを悪用すると、無期限BANになる可能性があります！
 
 # Hue hue hue
 ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology

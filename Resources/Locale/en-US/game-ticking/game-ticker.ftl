@@ -38,8 +38,8 @@ latejoin-arrivals-direction-time = あなたをステーションに送るシャ
 latejoin-arrivals-dumped-from-shuttle = 不思議な力によって、到着シャトルで出発することができない。
 latejoin-arrivals-teleport-to-spawn = 不思議な力によって到着シャトルからテレポートされる。安全なシフトを！
 
-preset-not-enough-ready-players = Can't start {$presetName}. Requires {$minimumPlayers} players but we have {$readyPlayersCount}.
-preset-no-one-ready = Can't start {$presetName}. No players are ready.
+preset-not-enough-ready-players = {$presetName}を開始できません。{$readyPlayersCount}人のプレーヤーが必要ですが、{$minimumPlayers}人しかいません。
+preset-no-one-ready = {$presetName}を開始できません。選手が準備できていません。
 
 game-run-level-PreRoundLobby = ラウンド前ロビー
 game-run-level-InRound = ラウンド中
