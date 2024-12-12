@@ -1,5 +1,5 @@
 ﻿- type: entity
   save: false
-  name: ウリスチ・マクヴォクス
+  name: ウリスト・マクヴォクス
   parent: BaseMobVox
   id: MobVox
