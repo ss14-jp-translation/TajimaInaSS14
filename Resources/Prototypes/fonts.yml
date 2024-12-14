@@ -40,7 +40,7 @@
 
 - type: font
   id: Monospace
-  path: /EngineFonts/NotoSans/NotoSansMono-Regular.ttf
+  path: /Fonts/Osaka Regular-Mono/Osaka Regular-Mono.otf
 
 - type: font
   id: Emoji

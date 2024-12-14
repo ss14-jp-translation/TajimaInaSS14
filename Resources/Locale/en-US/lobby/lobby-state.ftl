@@ -11,7 +11,7 @@ lobby-state-player-status-observer = オブザーバー
 lobby-state-player-status-round-not-started = まだラウンドが始まっていない。
 lobby-state-player-status-round-time =
     所要時間は{$hours}時間{$minutes}分
-lobby-state-song-text = 演奏中：[color=white]{$songArtist}[/color]の[color=white]「{$songTitle}」[/color]
+lobby-state-song-text = 演奏中：[color=white]{$songArtist}[/color][color=white]「{$songTitle}」[/color]
 lobby-state-song-no-song-text = ロビーの曲は流れていない。
 lobby-state-song-unknown-title = [color=dimgray]タイトル不明[/color]
 lobby-state-song-unknown-artist = [color=dimgray]アーティスト不明[/color]
