@@ -1103,7 +1103,7 @@
   parent: BaseSign
   id: SignVox
   name: vox area sign
-  description: A sign indicating that the area ahead is intended for Vox crew members and does not have an oxygen atmosphere.
+  description: この先のエリアはヴォックスの乗組員用で、酸素雰囲気がないことを示す標識。
   components:
   - type: Sprite
     state: vox
