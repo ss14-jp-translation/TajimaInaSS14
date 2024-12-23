@@ -6,4 +6,4 @@ zombie-name-prefix = ゾンビ{$baseName}
 zombie-role-desc = 死者の悪意あるクリーチャー。
 zombie-role-rules = あなたは敵役です。生きている人を探し出し、噛んで感染させてゾンビにする。他のゾンビと協力して駅を制圧せよ。
 
-zombie-permadeath = This time, you're dead for real.
+zombie-permadeath = 死はついに終焉を迎えた。
