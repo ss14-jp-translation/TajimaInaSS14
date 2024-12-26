@@ -61,4 +61,4 @@
   description: 白い旗に赤い丸。
   components:
   - type: Sprite
-    state: pirate_flag
+    state: japan_flag
