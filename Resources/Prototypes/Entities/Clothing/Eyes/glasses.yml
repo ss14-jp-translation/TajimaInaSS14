@@ -69,8 +69,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesGlasses
-  name: glasses
-  description: A pair of spectacular spectacles with prescription lenses.
+  name: 眼鏡
+  description: 度付きレンズの付いた華やかなメガネ。
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/glasses.rsi
@@ -128,8 +128,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesGlassesCheapSunglasses
-  name: cheap sunglasses
-  description: A pair of black sunglasses. Doesn't block light well, more of an accessory than something useful.
+  name: 安いサングラス
+  description: 安物のサングラス。光をうまく遮らないので、役に立つというよりアクセサリーだ。
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/sunglasses.rsi
@@ -145,8 +145,8 @@
 - type: entity
   parent: ClothingEyesGlassesCheapSunglasses
   id: ClothingEyesGlassesSunglasses
-  name: sun glasses
-  description: A pair of black sunglasses.
+  name: サングラス
+  description: 遮光サングラス。
   components:
   - type: FlashImmunity
   - type: EyeProtection
@@ -161,7 +161,7 @@
   parent: [ClothingEyesBase, ShowSecurityIcons, BaseRestrictedContraband]
   id: ClothingEyesGlassesSecurity
   name: security glasses
-  description: Upgraded sunglasses that provide flash immunity and a security HUD.
+  description: フラッシュ耐性とセキュリティHUDを備えたアップグレード・サングラス。
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/secglasses.rsi
@@ -225,8 +225,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesGlassesThermal
-  name: optical thermal scanner
-  description: Thermals in the shape of glasses.
+  name: 光学式サーマルスキャナー
+  description: 眼鏡の形をしたサーマル。
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/thermal.rsi
@@ -243,8 +243,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesGlassesChemical
-  name: chemical analysis goggles
-  description: Goggles that can scan the chemical composition of a solution.
+  name: 化学分析用ゴーグル
+  description: 溶液の化学組成をスキャンできるゴーグル。
   components:
     - type: Sprite
       sprite: Clothing/Eyes/Glasses/science.rsi
@@ -257,8 +257,8 @@
 - type: entity
   parent: [ClothingEyesBase, BaseMajorContraband]
   id: ClothingEyesVisorNinja
-  name: ninja visor
-  description: An advanced visor protecting a ninja's eyes from flashing lights.
+  name: 忍者バイザー
+  description: 閃光から忍者の目を守る高度なバイザー。
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/ninjavisor.rsi
