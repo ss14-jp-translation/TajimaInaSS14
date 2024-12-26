@@ -40,7 +40,7 @@
   parent: BaseFlag
   id: LGBTQFlag
   name: LGBTQ+旗
-  description: "\"Be gay do crime\" flag."
+  description: これはすべてのフレーバーがある。
   components:
   - type: Sprite
     state: lgbtq_flag
