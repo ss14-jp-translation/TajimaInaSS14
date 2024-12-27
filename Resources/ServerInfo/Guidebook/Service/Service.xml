@@ -1,34 +1,34 @@
 <Document>
-# Service
-[color=#9fed58]Service[/color] keeps the station clean, efficient and sane so that all other departments can do their jobs better and keep their staff happy. They also end up doing most of the paperwork on the station.
+# サービス
+[color=#9fed58]サービス部門[/color]はステーションを清潔に保ち、効率的で正常な状態に保つことで、他のすべての部門がより良い仕事をし、スタッフの満足度を保つことができる。また、ステーションの事務処理のほとんども彼らが行っている。
 
-## Personnel
-[color=#9fed58]Service[/color]'s staff is made up of Service Workers, Chefs, Botanists, Bartenders, Janitors, Chaplains, Clowns, Mimes, Musicians, Lawyers, Librarians and Passengers. Service is run by the Head of Personnel.
+## 職員
+[color=#9fed58]サービスのスタッフ[/color]は、サービスマン、シェフ、植物学者、バーテンダー、清掃員、チャプレン、ピエロ、パントマイム、音楽家、弁護士、司書、乗客で構成されている。サービスはHoPによって運営されている。
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chef"/>
-    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botanist"/>
-    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Bartender"/>
-    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Janitor"/>
+    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="シェフ"/>
+    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="植物学者"/>
+    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="バーテンダー"/>
+    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="清掃員"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Chaplain"/>
-    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Clown"/>
-    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mime"/>
-    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Musician"/>
+    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="チャプレン"/>
+    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="ピエロ"/>
+    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="パントマイム"/>
+    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="音楽家"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Lawyer"/>
-    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Librarian"/>
-    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Passenger"/>
+    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="弁護士"/>
+    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="司書"/>
+    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="乗客"/>
     <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
   </Box>
 
-## Working Together
-[color=#9fed58]Service[/color], despite being the most diverse, tends to be the most [color=#a4885c]interlinked[/color] department by far.
-Most [color=#9fed58]Service[/color] jobs require [color=#a4885c]cooperation[/color] between workers.
-Chefs often need ingredients that only botanists can grow efficiently. The bartender may request bananas that only clowns carry in abundance.
-The lawyer may invite the mime to play charades to convince the judge that their client is innocent.
+## 共に働く
+[color=#9fed58]サービス[/color]は、最も多様であるにもかかわらず、最も[color=#a4885c]相互リンク[/color]している部門である傾向がある。
+ほとんどの[color=#9fed58]サービス[/color]の仕事は、労働者間の[color=#a4885c]協力[/color]を必要とする。
+シェフは、植物学者だけが効率的に栽培できる食材を必要とすることが多い。バーテンダーは、ピエロだけが大量に持っているバナナを要求するかもしれない。
+弁護士は、依頼人が無実であることを裁判官に納得させるために、パントマイムを招いて見せ合いっこをさせるかもしれない。
 
-A lot of [color=#a4885c]collaboration[/color] is necessary within and without [color=#9fed58]Service[/color]. Often times, [color=#9fed58]Service[/color] is required by other departments, so be on your toes.
+[color=#a4885c]サービス[/color]内外で多くの[color=#9fed58]コラボレーション[/color]が必要です。多くの場合、[color=#9fed58]サービス[/color]は他部門から要求されることが多いので、気を抜かないこと。
 </Document>
