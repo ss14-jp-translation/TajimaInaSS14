@@ -1,19 +1,19 @@
 <Document>
-# Botany
-As a botanist, it is your job to grow enough food to stop the chef from seeking "alternative sources". Grow lots of wheat, and when you get tired of that, grow weed. Make weed smoothies and spike drinks with nettles. Just keep growing plants, and you'll do great!
+# 植物学
+植物学者であるあなたの仕事は、シェフが 「代替ソース 」を探すのを止めさせるだけの食料を栽培することだ。小麦をたくさん栽培し、それに飽きたら雑草を栽培する。雑草スムージーを作ったり、イラクサ入りのドリンクを作ったり。植物を育て続ければ、きっとうまくいく！
 
-## Starting your shift
-First identify the machines around you that you will be using. Coordinate with the Chef to see if they want anything specific to be grown, otherwise grow wheat and bananas and whatever else you feel like growing. You may also grow plants for Chemistry (Medbay), the Bartender, or to sell by Cargo.
+## シフトの開始
+まず、自分の周りにある使用する機械を確認する。シェフと調整し、何か特別なものを栽培してほしいかどうかを確認する。そうでなければ、小麦やバナナなど、栽培したいと思うものを栽培する。また、化学（メドベイ）やバーテンダー、カーゴで売るための植物を育てることもできる。
 
 
-# Tools
-There are many tools that can be used to keep your crops healthy and growing. The Hydroponics Tray is where you will spend most of your time as a botanist.
+# 道具
+作物を健康に育てるための道具がたくさんある。水耕栽培トレイは、あなたが植物学者としてほとんどの時間を費やす場所です。
 
-## Hydroponics Tray
+## 水耕栽培トレイ
 <Box>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 </Box>
-It's a hydroponics tray, it grows plants with water. First fill the tray with water, then add seeds. 
+これは水耕栽培用のトレイで、水で植物を育てる。まずトレイに水を入れ、次に種を入れる。
 Hydroponics tray lights indicate different things depending on color and position:
 - [color=red]Red Light, Left[/color]: Dead plant that needs re-planting. Use a spade to remove the plant.
 - [color=orange]Flashing Orange Light, Center[/color]: The environment is sub-optimal. Check what is affecting the plant by Shift Clicking on it. It is likely weeds but it could be undesirable pressure or lack of oxygen. If weeds, use a mini hoe or spray 1 time with weed spray. Be warned, however, that overuse of weed killers can lead to unhealthy plants, possibly killing them.
@@ -37,14 +37,14 @@ The lifecycle of a hydroponics tray is the following:
 <Box>
 <GuideEntityEmbed Entity="SeedExtractor"/>
 </Box>
-It extracts seeds. Insert crop, receive seeds.
+種子を抽出する。作物を入れ、種子を受け取る。
 
 
-# Plant Genetics
-Like all other forms of life known to NanoTrasen, plants pass traits to offspring in their genes. By manipulating plant genetics, botanists can produce plant varieties with desirable mutations that increase plant health and yield.
+# 植物遺伝学
+ナノトレーゼンが知る他のすべての生命体と同様に、植物は遺伝子の中で形質を子孫に伝えます。植物の遺伝子を操作することで、植物学者は植物の健康と収穫量を増加させる望ましい突然変異を持つ品種を作り出すことができる。
 
-## Traits
-The phenotype, or set of observable characteristics and traits of a plant, can be determined through careful observation and study. A few common traits include:
+## 形質
+表現型、すなわち植物の観察可能な特徴や形質の集合は、注意深い観察と研究によって決定することができる。一般的な形質には以下のようなものがある：
 
 - [color=lightgreen]Bioluminescence[/color]: plants with this trait glow in the dark
 - [color=lightgreen]High yield[/color]: plants with this trait yield more fruit per harvest
@@ -56,29 +56,29 @@ The phenotype, or set of observable characteristics and traits of a plant, can b
 - [color=lightgreen]Seedless[/color]: plants with this trait do not produce viable seeds
 - [color=lightgreen]Weed resistance[/color]: plants with this trait suppress weed growth
 
-You can determine the phenotype of a plant simply by growing them and observing them! This is how Gregor Mendel, father of genetics, studied them in 1866.
+植物を育てて観察するだけで、その表現型を決定することができる！1866年、遺伝学の父グレゴール・メンデルはこうして植物を研究した。
 
-## Mutations
-Plants treated with [color=cyan]unstable mutagen[/color] will experience random genetic mutations, which can alter their genes and result in changes to their traits. You can save the plants with mutations you want by harvesting their seeds.
+## 突然変異
+[color=cyan]不安定変異原[/color]で処理された植物は、ランダムに遺伝子変異を起こし、遺伝子が変化して形質が変わることがある。突然変異を起こした植物は、種子を収穫することで保存することができます。
 
-The more unstable mutagen you use, the more mutations you will get. Since many genes are vital to a plant's survival, most mutations will cause a plant to die.
+不安定変異原を使えば使うほど、より多くの変異を得ることができる。多くの遺伝子は植物の生存に不可欠であるため、ほとんどの突然変異は植物を枯死させる。
 
 <Box>
 <GuideEntityEmbed Entity="UnstableMutagenChemistryBottle"/>
 </Box>
 
-## Cross-Pollination
-You can use a [color=cyan]sterile swab[/color] to transfer pollen from one plant to another. Plants that are cross-pollinated have a chance to transfer traits. Be careful re-using swabs; pollen is sticky!
+## 交配
+[color=cyan]滅菌綿棒[/color]を使って、ある植物から別の植物に花粉を移すことができる。交配された植物は、形質を移すチャンスがある。花粉は粘着性があるので、綿棒の再利用には注意すること！
 
 <Box>
 <GuideEntityEmbed Entity="BoxMouthSwab"/>
 <GuideEntityEmbed Entity="DiseaseSwab"/>
 </Box>
 
-## Chemicals
-Some chemicals have special effects on plants.
+## 化学物質
+化学物質の中には、植物に特別な影響を与えるものがある。
 
-[textlink="Click here to see all botanical chemicals." link="Botanical"]
+[textlink="すべての植物化学物質を見るには、ここをクリックしてください。" link="Botanical"]
 
 <GuideReagentEmbed Reagent="Dylovene"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>
