@@ -1,11 +1,11 @@
 <Document>
-# Chef
-A fella has gotta eat, and it's the chef's job to make sure folks have something other than junk to munch on.
+# シェフ
+人々には食べ物が必要で、彼らに美味しいものを提供するのがシェフの仕事だ。
 
 
-[textlink="Click here to see a list of food recipes." link="FoodRecipes"]
+[textlink="料理レシピの一覧はこちら" link="FoodRecipes"]
 
-First and foremost, you'll need to familiarize yourself with the kitchen, and the tools available to you.
+何よりもまず、厨房や道具に慣れる必要があります。
 
 <Box>
 <GuideEntityEmbed Entity="KitchenKnife"/>
@@ -21,51 +21,51 @@ First and foremost, you'll need to familiarize yourself with the kitchen, and th
 <GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Dinnerware Vend"/>
 </Box>
 
-## Kitchen Prep:
+## キッチンの準備
 
-It's hard to put into words how to play chef without feeling like you're being given orders, but here are some basics.
+命令されているように感じずにシェフを演じる方法を言葉にするのは難しいが、基本的なことをいくつか紹介しよう。
 
-- Check what you have on hand when it comes to ingredients, most kitchens have some Flour, Rice, Eggs, Monkey Cubes, and a few other things to get started with.
-- Try your hand at mixing up some dough by putting water and flour together in a beaker. (Use the sinks!)
-- Check the Wiki (or Food Recipes) guidebook for things you can make, and put all the listed ingredients into a microwave to cook it into a meal.
-- Set up mouse traps. Yes, really. It's easy to see all your hard work disappear if you don't take precautions for mice infestations.
+- たいていのキッチンには、小麦粉、米、卵、モンキーキューブなど、手持ちの材料がいくつかあるはずだ。
+- ビーカーに水と小麦粉を入れて、生地を混ぜてみよう。(シンクを使おう）
+- Wiki（またはFood Recipes）のガイドブックで作れるものをチェックし、掲載されている材料をすべて電子レンジに入れて調理する。
+- ネズミ捕りをする。そう、本当に。ねずみの侵入を防がなければ、せっかくの苦労が水の泡になるのは目に見えている。
 
-Once you're a bit more experienced and familiar with what you can make, it might be best to put together a few menus, or a "cheat sheet" so you can give a list of ingredients to botany.
+もう少し経験を積んで、作れるものに慣れてきたら、いくつかのメニューをまとめたり、材料リストを植物学に渡せるように「カンニングペーパー」を作っておくといいかもしれない。
 
-## Mixing Dough:
-Add Flour and Water together in a beaker. (Use the sink for water!)
+## 生地を混ぜる：
+小麦粉と水をビーカーに入れる。(水は流しを使おう！）。
 <Box>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 <GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="water"/>
 <GuideEntityEmbed Entity="FoodDough"/>
 </Box>
-## Making Flour:
-Place wheat in a grinder (with a beaker placed inside) and grind it up!
+## 小麦粉を作る：
+小麦を粉砕機（中にビーカーを入れる）に入れ、粉砕する！
 <Box>
 <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 </Box>
-## Getting Plants:
-Ask Botany for what you need, without a botanist, you may need to grow more plants yourself.
+## 植物を手に入れる：
+必要なものは植物学者に尋ねてください。植物学者がいなければ、自分でもっと植物を育てる必要があるかもしれない。
 <Box>
 <GuideEntityEmbed Entity="SignHydro1" Caption=" "/>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 </Box>
-## Gathering Milk:
-Alt-Click on a Cow with a container in your hand. (Beakers, Buckets, Milk Jugs, ect.)
+## 牛乳を集める：
+容器を持ちながら牛をAlt+クリック。(ビーカー、バケツ、牛乳瓶など）。
 <Box>
 <GuideEntityEmbed Entity="Bucket"/>
 <GuideEntityEmbed Entity="MobCow"/>
 <GuideEntityEmbed Entity="DrinkMilkCarton"/>
 </Box>
-## How to Butcher:
-In most cases, you should be able to use a knife directly on a creature that's dead. It's best to do this in the freezer, as the results are... messy.
+## 屠殺の仕方：
+ほとんどの場合、死んだ生き物に直接ナイフを使うことができるはずだ。冷凍庫の中でやるのが一番いい。
 
-Monkeys, however, (and other humanoids), need to be dragged onto a meatspike to be butchered.
+屠殺するためにミートスパイクに引きずり込まなければならないものもあるかもしれない。
 <Box>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="KitchenKnife"/>
