@@ -62,8 +62,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandAtmosiaDeclarationIndependence
-  name: "Atmosia Declaration of Independence"
-  description: "A relic of a failed rebellion."
+  name: "アトモシア独立宣言"
+  description: "失敗した反乱の遺物。"
   components:
   - type: Sprite
     state: poster2_contraband
@@ -72,7 +72,7 @@
   parent: PosterBase
   id: PosterContrabandFunPolice
   name: "Fun Police"
-  description: "A poster condemning the station's security forces."
+  description: "ステーションの治安部隊を非難するポスター。"
   components:
   - type: Sprite
     state: poster3_contraband
@@ -81,7 +81,7 @@
   parent: PosterBase
   id: PosterContrabandLustyExomorph
   name: "Lusty Exomorph"
-  description: "A heretical poster depicting the titular star of an equally heretical book."
+  description: "同じく異端の本の主役を描いた異端のポスター。"
   components:
   - type: Sprite
     state: poster4_contraband
@@ -89,8 +89,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandSyndicateRecruitment
-  name: "Syndicate Recruitment"
-  description: "See the galaxy! Shatter corrupt megacorporations! Join today!"
+  name: "シンジケート募集"
+  description: "銀河系を見よ！腐敗した巨大企業を粉砕せよ！今すぐ参加しよう！"
   components:
   - type: Sprite
     state: poster5_contraband
@@ -98,8 +98,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandClown
-  name: "Clown"
-  description: "Honk."
+  name: "ピエロ"
+  description: "ホンク。"
   components:
   - type: Sprite
     state: poster6_contraband
@@ -108,7 +108,7 @@
   parent: PosterBase
   id: PosterContrabandSmoke
   name: "Smoke"
-  description: "A poster advertising a rival corporate brand of cigarettes."
+  description: "ライバル企業ブランドのタバコを宣伝するポスター。"
   components:
   - type: Sprite
     state: poster7_contraband
@@ -116,8 +116,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandGreyTide
-  name: "Grey Tide"
-  description: "A rebellious poster symbolizing passenger solidarity."
+  name: "グレイ・タイド"
+  description: "乗客の連帯を象徴する反抗的なポスター。"
   components:
   - type: Sprite
     state: poster8_contraband
@@ -125,8 +125,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandMissingGloves
-  name: "Missing Gloves"
-  description: "This poster references the uproar that followed Nanotrasen's financial cuts toward insulated-glove purchases."
+  name: "紛失したグローブ"
+  description: "このポスターは、Nanotrasenの断熱グローブ購入に対する財政削減の騒動に言及したものである。"
   components:
   - type: Sprite
     state: poster9_contraband
@@ -134,8 +134,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandHackingGuide
-  name: "Hacking Guide"
-  description: "This poster details the internal workings of the common Nanotrasen airlock. Sadly, it appears out of date."
+  name: "ハッキング・ガイド"
+  description: "このポスターは、一般的なNanotrasenのエアロックの内部構造を詳しく説明している。残念ながら、このポスターは古い。"
   components:
   - type: Sprite
     state: poster10_contraband
@@ -152,8 +152,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandAmbrosiaVulgaris
-  name: "Ambrosia Vulgaris"
-  description: "This poster is lookin' pretty trippy man."
+  name: "アンブロシア・バルガリス"
+  description: "このポスターはかなりトリッピーに見えるよ。"
   components:
   - type: Sprite
     state: poster12_contraband
@@ -162,7 +162,7 @@
   parent: PosterBase
   id: PosterContrabandDonutCorp
   name: "Donut Corp."
-  description: "This poster is an unauthorized advertisement for Donut Corp."
+  description: "このポスターはDonut Corpの無許可広告である。"
   components:
   - type: Sprite
     state: poster13_contraband
@@ -206,8 +206,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCommunistState
-  name: "Communist State"
-  description: "All hail the Communist party!"
+  name: "共産国家"
+  description: "共産党万歳！"
   components:
   - type: Sprite
     state: poster18_contraband
@@ -215,8 +215,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandLamarr
-  name: "Lamarr"
-  description: "This poster depicts Lamarr. Probably made by a traitorous Research Director."
+  name: "ラマー"
+  description: "ラマーが描かれたポスター。おそらく裏切り者のリサーチ・ディレクターが作ったものだろう。"
   components:
   - type: Sprite
     state: poster19_contraband
@@ -225,7 +225,7 @@
   parent: PosterBase
   id: PosterContrabandBorgFancy
   name: "Borg Fancy"
-  description: "Being fancy can be for any borg, just need a suit."
+  description: "派手であることはどんなボーグにも可能で、ただスーツが必要なだけだ。"
   components:
   - type: Sprite
     state: poster20_contraband
@@ -234,7 +234,7 @@
   parent: PosterBase
   id: PosterContrabandBorgFancyv2
   name: "Borg Fancy v2"
-  description: "Borg Fancy, Now only taking the most fancy."
+  description: "ボーグ・ファンシー、今は最もファンシーなものだけを取る。"
   components:
   - type: Sprite
     state: poster21_contraband
@@ -261,7 +261,7 @@
   parent: PosterBase
   id: PosterContrabandC20r
   name: "C-20r"
-  description: "A poster advertising the Scarborough Arms C-20r."
+  description: "Scarborough Arms C-20rの広告ポスター。"
   components:
   - type: Sprite
     state: poster24_contraband
@@ -278,8 +278,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandRevolver
-  name: "Revolver"
-  description: "Because seven shots are all you need."
+  name: "リボルバー"
+  description: "7発あれば十分だからだ。"
   components:
   - type: Sprite
     state: poster26_contraband
@@ -296,8 +296,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandSyndicatePistol
-  name: "Syndicate Pistol"
-  description: "A poster advertising syndicate pistols as being 'classy as fuck'. It's covered in faded gang tags."
+  name: "シンジケート・ピストル"
+  description: "シンジケートのピストルを「クラッシー・アス・ファック」と宣伝するポスター。色あせたギャングのタグで覆われている。"
   components:
   - type: Sprite
     state: poster28_contraband
@@ -323,8 +323,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCC64KAd
-  name: "CC 64K Ad"
-  description: "The latest portable computer from Comrade Computing, with a whole 64kB of ram!"
+  name: "Fony BH-F1 Ad"
+  description: "64KB RAMを搭載したFonyの最新ポータブルコンピューター！"
   components:
   - type: Sprite
     state: poster31_contraband
@@ -351,7 +351,7 @@
   parent: PosterBase
   id: PosterContrabandFreeDrone
   name: "Free Drone"
-  description: "This poster commemorates the bravery of the rogue drone; once exiled, and then ultimately destroyed by CentComm."
+  description: "このポスターは、一度は追放され、最終的にはCentCommが破壊した不正規ドローンの勇気を記念するものだ。"
   components:
   - type: Sprite
     state: poster35_contraband
@@ -422,7 +422,7 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandKudzu
-  name: "Kudzu"
+  name: "葛"
   description: "A poster advertising a movie about plants. How dangerous could they possibly be?"
   components:
   - type: Sprite
@@ -514,7 +514,7 @@
   parent: PosterBase
   id: PosterContrabandNuclearDeviceInformational
   name: "Nuclear Device Informational"
-  description: "This poster depicts an image of an old style nuclear explosive device, as well as some helpful information on what to do if one has been set. It suggests lying on the floor and crying."
+  description: "このポスターには、旧式の核爆発装置のイメージと、核爆発装置がセットされた場合の対処法に関する有益な情報が描かれている。床に横たわって泣くことを勧めている。"
   components:
   - type: Sprite
     state: poster54_contraband
@@ -523,7 +523,7 @@
   parent: PosterBase
   id: PosterContrabandRise
   name: "Rise Up"
-  description: "A poster depicting a grey shirted man holding a crowbar with the word Rise written below it."
+  description: "A poster depicting a grey shirted man holding a crowbar with the English word Rise written below it."
   components:
   - type: Sprite
     state: poster55_contraband
@@ -532,7 +532,7 @@
   parent: PosterBase
   id: PosterContrabandRevolt
   name: "Revolt"
-  description: "Revolutionist propaganda, manufactured by the Syndicate."
+  description: "シンジケートが製造した革命派のプロパガンダ。"
   components:
   - type: Sprite
     state: poster56_contraband
@@ -549,8 +549,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCybersun600
-  name: "Cybersun: 600 Years Commemorative Poster"
-  description: "An artistic poster commemorating 600 years of continual business for Cybersun Industries."
+  name: "Cybersun600周年記念ポスター"
+  description: "Cybersun Industriesの創業600年を記念したアーティスティックなポスター。"
   components:
     - type: Sprite
       state: poster58_contraband
@@ -559,7 +559,7 @@
   parent: PosterBase
   id: PosterContrabandDonk
   name: "DONK CO. BRAND MICROWAVEABLE FOOD"
-  description: "DONK CO. BRAND MICROWAVABLE FOOD: MADE BY STARVING COLLEGE STUDENTS, FOR STARVING COLLEGE STUDENTS."
+  description: "Donk Corporationブランドの電子レンジ調理食品： 飢えた大学生のために、飢えた大学生が作った。"
   components:
     - type: Sprite
       state: poster59_contraband
@@ -577,7 +577,7 @@
   parent: PosterBase
   id: PosterContrabandInterdyne
   name: "Interdyne Pharmaceutics: For the Health of Humankind"
-  description: "An advertisement for Interdyne Pharmaceutics' GeneClean clinics. 'Become the master of your own body!'"
+  description: "Interdyne PharmaceuticsのGeneCleanクリニックの広告。「自分の体の主人になろう！」。"
   components:
     - type: Sprite
       state: poster61_contraband
@@ -586,7 +586,7 @@
   parent: PosterBase
   id: PosterContrabandWaffleCorp
   name: "Make Mine a Waffle Corp: Fine Rifles, Economic Prices"
-  description: "An old advertisement for Waffle Corp rifles. 'Better weapons, lower prices!'"
+  description: "Waffle Corpのライフルの古い広告。より良い武器を、より安く！'"
   components:
     - type: Sprite
       state: poster62_contraband
@@ -947,7 +947,7 @@
   parent: PosterBase
   id: PosterLegitSecWatch
   name: "SEC:Watch"
-  description: "SECが開発した新しいステルスゲーム。"
+  description: "Studio Eikawaが開発した新しいステルスゲーム。"
   components:
   - type: Sprite
     state: poster39_legit
@@ -955,8 +955,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitAnatomyPoster
-  name: "Anatomy of a spessman"
-  description: "A poster showing the bits and bobs that makes you... you!"
+  name: "スペスマンの解剖"
+  description: "スペスマンの断片を示すポスター。"
   components:
   - type: Sprite
     state: poster40_legit
@@ -1072,8 +1072,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitOppenhopper
-  name: "Oppenhopper"
-  description: "A poster for a long-forgotten movie. It follows a group of tenacious greenhorns from the Grasshopper Sector as they defend against onslaughts of the infamous Nuclear Operatives. The tagline reads: \"Nuke Ops will continue until robustness improves.\""
+  name: "オッペンホッパー"
+  description: "懐かしい映画のポスター。グラスホッパー・セクターの勇敢な若者たちが、悪名高いニュークリア・オペレーターズの猛攻から身を守る姿を描く。キャッチコピーはこうだ：\堅牢性が向上するまで、核作戦は続く\。"
   components:
   - type: Sprite
     state: poster53_legit
