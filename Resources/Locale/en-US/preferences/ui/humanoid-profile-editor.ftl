@@ -15,6 +15,7 @@ humanoid-profile-editor-pronouns-label = Pronouns:
 humanoid-profile-editor-pronouns-male-text = He / Him
 humanoid-profile-editor-pronouns-female-text = She / Her
 humanoid-profile-editor-pronouns-epicene-text = They / Them
+<<<<<<< HEAD
 humanoid-profile-editor-pronouns-neuter-text = It / It
 humanoid-profile-editor-import-button = インポート
 humanoid-profile-editor-export-button = エクスポート
@@ -33,6 +34,26 @@ humanoid-profile-editor-preference-backpack = バックパック
 humanoid-profile-editor-preference-satchel = サッチェル
 humanoid-profile-editor-preference-duffelbag = ダッフルバッグ
 humanoid-profile-editor-guidebook-button-tooltip = クリックすると詳細が表示されます。
+=======
+humanoid-profile-editor-pronouns-neuter-text = It / Its
+humanoid-profile-editor-import-button = Import
+humanoid-profile-editor-export-button = Export
+humanoid-profile-editor-export-image-button = Export image
+humanoid-profile-editor-open-image-button = Open images
+humanoid-profile-editor-save-button = Save
+humanoid-profile-editor-reset-button = Reset
+humanoid-profile-editor-spawn-priority-label = Spawn priority:
+humanoid-profile-editor-eyes-label = Eye color:
+humanoid-profile-editor-jobs-tab = Jobs
+humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Stay in lobby if preference unavailable.
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Be {INDEFINITE($overflowJob)} {$overflowJob} if preference unavailable.
+humanoid-profile-editor-preference-jumpsuit = Jumpsuit
+humanoid-profile-editor-preference-jumpskirt = Jumpskirt
+humanoid-profile-editor-preference-backpack = Backpack
+humanoid-profile-editor-preference-satchel = Satchel
+humanoid-profile-editor-preference-duffelbag = Duffelbag
+humanoid-profile-editor-guidebook-button-tooltip = Click for more info
+>>>>>>> upstream/master
 
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = なし
