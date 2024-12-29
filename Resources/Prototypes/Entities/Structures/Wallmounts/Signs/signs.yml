@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseSign
   id: PaintingMonkey
-  name: monkey painting
-  description: Return to monky.
+  name: 猿の絵
+  description: It's a Zuny.
   components:
   - type: Sprite
     state: monkey_painting
@@ -20,7 +20,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalAtmos
   name: atmos sign
-  description: A direction sign, pointing out which way the Atmospherics department is.
+  description: 大気学部の方向を示す標識。
   components:
   - type: Sprite
     state: direction_atmos
@@ -29,7 +29,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalBar
   name: bar sign
-  description: A direction sign, pointing out which way the bar is.
+  description: バーの方向を示す標識。
   components:
   - type: Sprite
     state: direction_bar
@@ -38,7 +38,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalBridge
   name: bridge sign
-  description: A direction sign, pointing out which way the Bridge is.
+  description: ブリッジの方向を示す標識。
   components:
   - type: Sprite
     state: direction_bridge
@@ -47,7 +47,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalBrig
   name: brig sign
-  description: A direction sign, pointing out which way the Brig is.
+  description: ブリッグの方向を示す標識。
   components:
   - type: Sprite
     state: direction_brig
@@ -65,7 +65,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalChemistry
   name: chemistry sign
-  description: A direction sign, pointing out which way the chemistry lab is.
+  description: 化学実験室の方向を示す標識。
   components:
   - type: Sprite
     state: direction_chemistry
@@ -74,7 +74,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalCryo
   name: cryo sign
-  description: A direction sign, pointing out the way to cryogenics.
+  description: クライオジェニックへの道を示す方向指示板。
   components:
   - type: Sprite
     state: direction_cryo
@@ -83,7 +83,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalDorms
   name: dorms sign
-  description: A direction sign, pointing out which way the Dorms are.
+  description: 寮の方向を示す標識。
   components:
   - type: Sprite
     state: direction_dorms
@@ -92,7 +92,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalEng
   name: engineering sign
-  description: A direction sign, pointing out which way the Engineering department is.
+  description: 技術部の方向を示す標識。
   components:
   - type: Sprite
     state: direction_eng
@@ -101,7 +101,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalEvac
   name: evac sign
-  description: A direction sign, pointing out which way evac is.
+  description: 避難の方向を示す標識。
   components:
   - type: Sprite
     state: direction_evac
@@ -110,7 +110,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalExam
   name: exam sign
-  description: A direction sign, pointing out which way the examination room(s) are.
+  description: 診察室の方向を示す標識。
   components:
   - type: Sprite
     state: direction_exam
@@ -119,7 +119,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalFood
   name: food sign
-  description: A direction sign, pointing out which way the kitchen is.
+  description: キッチンの方向を示す標識。
   components:
   - type: Sprite
     state: direction_food
@@ -128,7 +128,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalGravity
   name: gravity sign
-  description: A direction sign, pointing out which way the gravity generator is.
+  description: 重力発生装置の方向を示す標識。
   components:
   - type: Sprite
     state: direction_gravity
@@ -137,7 +137,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalHop
   name: hop sign
-  description: A direction sign, pointing out which way Head of Personnel's office is.
+  description: 人事部長のオフィスの方向を示す標識。
   components:
   - type: Sprite
     state: direction_hop
@@ -146,7 +146,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalHydro
   name: hydro sign
-  description: A direction sign, pointing out which way hydroponics is.
+  description: 水耕栽培の方向を示す標識。
   components:
   - type: Sprite
     state: direction_hydro
@@ -155,7 +155,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalIcu
   name: icu sign
-  description: A direction sign, pointing out which way the ICU is.
+  description: ICUの方向を示す標識。
   components:
   - type: Sprite
     state: direction_icu
@@ -164,7 +164,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalJanitor
   name: janitor sign
-  description: A direction sign, pointing out which way the janitor's closet is.
+  description: 用務員室の方向を示す標識。
   components:
   - type: Sprite
     state: direction_janitor
@@ -173,7 +173,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalLibrary
   name: library sign
-  description: A direction sign, pointing out which way the library is.
+  description: 図書館の方向を示す標識。
   components:
   - type: Sprite
     state: direction_library
@@ -182,7 +182,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalMed
   name: medical sign
-  description: A direction sign, pointing out which way the Medical department is.
+  description: 医局の方向を示す標識。
   components:
   - type: Sprite
     state: direction_med
@@ -191,7 +191,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalSalvage
   name: salvage sign
-  description: A direction sign, pointing out which way the Salvage department is.
+  description: サルベージ部門の方向を示す標識。
   components:
   - type: Sprite
     state: direction_salvage
@@ -200,7 +200,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalSci
   name: science sign
-  description: A direction sign, pointing out which way the Science department is.
+  description: 科学部の方向を示す標識。
   components:
   - type: Sprite
     state: direction_sci
@@ -209,7 +209,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalSec
   name: sec sign
-  description: A direction sign, pointing out which way Security is.
+  description: セキュリティーがどちらにあるのかを示す方向指示標識。
   components:
   - type: Sprite
     state: direction_sec
@@ -218,7 +218,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalSolar
   name: solars sign
-  description: A direction sign, pointing out which way solars are.
+  description: 方角を示す標識。
   components:
   - type: Sprite
     state: direction_solar
@@ -227,7 +227,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalSupply
   name: supply sign
-  description: A direction sign, pointing to some supplies.
+  description: ある物資を指し示す方角の標識。
   components:
   - type: Sprite
     state: direction_supply
@@ -236,7 +236,7 @@
   parent: BaseSignDirectional
   id: SignDirectionalWash
   name: washroom sign
-  description: A direction sign, pointing to the way to a washroom.
+  description: 洗面所への道を示す方向指示板。
   components:
   - type: Sprite
     state: direction_wash
@@ -1112,7 +1112,7 @@
   parent: BaseSign
   id: SignVox
   name: vox area sign
-  description: A sign indicating that the area ahead is intended for Vox crew members and does not have an oxygen atmosphere.
+  description: この先のエリアはヴォックスの乗組員用で、酸素雰囲気がないことを示す標識。
   components:
   - type: Sprite
     state: vox

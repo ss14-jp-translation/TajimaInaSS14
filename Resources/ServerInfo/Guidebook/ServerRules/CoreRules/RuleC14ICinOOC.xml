@@ -1,13 +1,13 @@
 ﻿<Document>
-  # Core Rule 14 - Do not use LOOC or OOC to share current round information
-  Local Out of Character (LOOC) and Out of Character (OOC) channel are meant for things that don't relate to the current round. Using these channels to share round info is often referred to as "IC in OOC" or "ick ock".
+  # メインルール14 - 現在のラウンドの情報を共有するためにLOOCやOOCを使用しない。
+  ローカル・アウト・オブ・キャラクター(LOOC)とアウト・オブ・キャラクター(OOC)チャンネルは、現在のラウンドに関係のないことのために使われます。
 
-  ## Examples
-  Things you should [color=#a4885c]not[/color] do:
-  - Use LOOC to tell someone you are an antagonist.
-  - Use LOOC to tell someone that your character is not lying.
+  ## 例
+  やってはいけ[color=#a4885c]ない[/color]こと：
+  - LOOCを使って自分が敵対者であることを伝える。
+  - LOOCを使って、自分のキャラクターが嘘をついていないことを誰かに伝える。
 
-  Things you could do instead:
-  - Use codewords in-character.
-  - Try to convince them that you are not lying in-character, or accept that you won't be able to convince them.
+  代わりにできること
+  - キャラクター内で隠語を使う。
+  - キャラクター内であなたが嘘をついていないことを説得しようとするか、説得できないことを受け入れる。
 </Document>

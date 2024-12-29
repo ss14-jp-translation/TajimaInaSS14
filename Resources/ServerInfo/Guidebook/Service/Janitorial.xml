@@ -1,9 +1,9 @@
 <Document>
-# Janitorial
+# 清掃
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+あなたは物事を清潔に保つ。時には大変な仕事だが、誰かがやらなければならない。しかし、誰かがやらなければならないのです。この本では、清掃の道具とその使い方について説明します。
 
-## Basic Equipment
+## 基本装備
 <Box>
 <GuideEntityEmbed Entity="MopItem"/>
 <GuideEntityEmbed Entity="JanitorialTrolley"/>
@@ -18,7 +18,7 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## 追加装備
 <Box>
 <GuideEntityEmbed Entity="WetFloorSign"/>
 <GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
@@ -28,7 +28,7 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## 液体回収と処理
 <Box>
 <GuideEntityEmbed Entity="WaterTankFull"/>
 <GuideEntityEmbed Entity="Sink"/>
@@ -36,21 +36,21 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 </Box>
 
 ## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+本題に入りましょう。主な道具は、信頼できるモップ、ゴミ袋、スペースクリーナー、3種類のバケツのうちの1つだ。
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+モップがけ： カートに水を入れ、水たまりを見つける！モップを濡らして拭き取ると、しばらくして水たまりが乾きます。濡れた床のサインを忘れずに！
+- カートの水を抜くには、（カーソルで）カートを床の排水溝の上にドラッグしてください。これで中の液体がすべて捨てられます！床の排水口は通常、医療室、キッチンの冷凍庫、そしてもちろん管理人用クローゼットのどこかにあります。
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+ゴミ： 直接袋に入れるか、手に持ってください。ゴミ箱の近くをクリックすると、近くのゴミを全部すくい上げることができる。袋をゴミ箱にかけると、ゴミ箱が空になる。
+- カーゴはあなたのゴミを欲しがるかもしれない！
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+スペースクリーナー： この奇跡のスプレーは、落書きを消すことと、いざというときの水たまり掃除の2つの効果がある！
+- ケミストリーでもっと手に入るかもしれない。
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## 番外編
+優秀な清掃員は、常にもう少しやることがないかと目を光らせている。壊れた照明に目を光らせたり、厨房でネズミを駆除するシェフを手伝ったり、もし本当に気前がいいと感じたら、ステーション周辺の自動販売機や非常用クローゼットの補充をしてみてほしい！
 
-##Additional Information:
+##追加情報：
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 

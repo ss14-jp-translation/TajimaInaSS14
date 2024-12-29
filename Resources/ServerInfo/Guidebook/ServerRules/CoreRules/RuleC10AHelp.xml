@@ -1,29 +1,29 @@
 ﻿<Document>
-  # Core Rule 10 - Do not abuse or ignore admin messages
-  Admin help, or "ahelp", is the system used by admins to communicate with specific players in the game. Only use admin help for things requiring admin attention. If you ignore messages admins send to you via ahelp, or disconnect during an ahelp, you may be banned. If you urgently need to leave during an ahelp, you may do so but will likely need to continue the ahelp on the forums. Do not admin check, be hostile/aggressive, request events, or spam. IC methods of contacting admins, like prayers, faxes, red phones, and banana phones, should be used when there is not an issue.
+  # メインルール10 - アドミンメッセージを乱用したり無視したりしないこと
+  アドミン・ヘルプ、または 「ahelp 」は、管理者がゲーム内の特定のプレイヤーと連絡を取るために使用するシステムです。アドミンヘルプは、アンタゴの注意が必要な場合にのみ使用してください。管理者からのメッセージを無視したり、ヘルプ中に切断したりすると、BANされることがあります。ヘルプ中に緊急に退出する必要がある場合、退出することは可能ですが、フォーラムでヘルプを続ける必要があるでしょう。管理者チェック、敵対的/攻撃的な態度、イベントの要求、スパムはしないでください。祈り、ファックス、赤電話、バナナ電話などのICによる管理者への連絡方法は、問題がない場合に使用してください。
 
-  Admins are not always online, but all ahelps are automatically relayed to discord. For various reasons, admins might not respond to an ahelp even if they've handled it. A lack of response does not necessarily mean that an ahelp was ignored.
+  管理者は常にオンラインではありませんが、すべてのヘルプは自動的にディスコードに中継されます。様々な理由で、管理者がそのヘルプに対応しても返答しないことがあります。返答がないからといって、そのヘルプが無視されたとは限りません。
 
-  ## Should I ahelp X?
-  You can ahelp anytime you genuinely think a player is breaking a rule. Not all ahelps end up being for something that an admin needs to intervene in, but that's ok, admins would rather have people occasionally report things that turn out to not be an issue than miss reports for actual issues because someone was unsure, or get those reports late because someone waited until the end of the round to be more sure.
+  ## Xを助けるべきですか？
+  純粋にプレーヤーがルール違反を犯していると思えば、いつでもahelpすることができます。しかし、管理者は、誰かが確信が持てなかったために実際の問題の報告を見逃してしまったり、誰かがラウンドの終わりまで待っていたために報告が遅れてしまったりするよりは、むしろ問題ではないことが判明したことを報告してもらう方がいいのです。
 
-  The most common reason players give for not ahelping issues is that they don't want to waste admin time, but it only takes a few seconds for an admin to check if someone is an antagonist. If you are ahelping too many things, an admin will let you know. If you're not being told to stop reporting something or to report less things, then you can safely assume that you aren't causing any issues.
+  プレーヤーが問題を助けない理由として最も多いのは、管理者の時間を無駄にしたくないというものですが、管理者が誰かがアンチかどうかをチェックするのに数秒しかかかりません。もしあなたが多くのことを助けすぎているなら、管理者はあなたに知らせるでしょう。もしあなたが何かを報告するのをやめるように言われたり、報告することを減らすように言われたりしないのであれば、あなたは何も問題を引き起こしていないと思っていいでしょう。
 
-  # What should I include in an ahelp?
-  At a minimum, admins need to know what the issue is to be able to address an ahelp. Don't send ahelp messages with no information about what your question or the issue is. Messages like "hello" are often considered admin checking.
+  # ヘルプには何を書くべきですか?
+  最低限、管理者はahelpに対応するために何が問題なのかを知る必要があります。あなたの質問や問題が何なのかについて何も書かずにahelpメッセージを送ってはいけません。こんにちは」のようなメッセージは、しばしば管理者チェックとみなされます。
 
-  If you can, an ideal ahelp message includes what the issue is along with who is causing it and their character's name if possible.
+  もし可能であれば、理想的なahelpメッセージには、問題の内容と、誰がその問題を引き起こしているのか、そして可能であればそのキャラクターの名前を含めてください。
 
-  # Examples
-  Appropriate uses of ahelp:
-  - reporting people who you think are violating rules,
-  - asking questions about rules,
-  - asking for a temporary exemption from a rule, and
-  - request a minor gimmick, like a TC trade or item spawn.
+  # 例
+  ahelpの適切な使い方
+  - ルールに違反していると思われる人を報告する、
+  - ルールに関する質問
+  - ルールの一時的な免除を求める。
+  - TCトレードやアイテムスポーンなど、ちょっとしたギミックを要求する。
 
-  Inappropriate uses of ahelp:
-  - checking if an admin is online, including sending messages without any information about the issue like "hello" or incomprehensible messages,
-  - being hostile or aggressive,
-  - requesting events, and
-  - spamming messages about the same issue.
+  不適切なahelpの使い方
+  - 管理者がオンラインかどうかを確認すること。”こんにちは”のような問題についての情報がないメッセージや、理解しがたいメッセージを送ることを含む、
+  - 敵対的、攻撃的
+  - イベントを要求する
+  - 同じ問題に関するメッセージのスパム。
 </Document>

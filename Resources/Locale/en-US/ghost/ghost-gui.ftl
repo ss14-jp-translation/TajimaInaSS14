@@ -1,21 +1,21 @@
-ghost-gui-return-to-body-button = Return to body
-ghost-gui-ghost-warp-button = Ghost Warp
-ghost-gui-ghost-roles-button = Ghost Roles ({$count})
-ghost-gui-toggle-ghost-visibility-popup-on = Enabled visibility of ghosts.
-ghost-gui-toggle-ghost-visibility-popup-off = Disabled visibility of ghosts.
-ghost-gui-toggle-lighting-manager-popup = Toggled all lighting.
-ghost-gui-toggle-fov-popup = Toggled field-of-view.
+ghost-gui-return-to-body-button = 本体に戻る
+ghost-gui-ghost-warp-button = ゴーストワープ
+ghost-gui-ghost-roles-button = ゴーストの役割 ({$count})
+ghost-gui-toggle-ghost-visibility-popup-on = ゴーストの可視性を有効にする。
+ghost-gui-toggle-ghost-visibility-popup-off = ゴーストの可視性を無効にする。
+ghost-gui-toggle-lighting-manager-popup = すべての照明を切り替える。
+ghost-gui-toggle-fov-popup = 視野角を切り替える。
 
-ghost-gui-toggle-hearing-popup-on = You can now hear all messages.
-ghost-gui-toggle-hearing-popup-off = You can now only hear radio and nearby messages.
+ghost-gui-toggle-hearing-popup-on = すべてのメッセージを聞くことができる。
+ghost-gui-toggle-hearing-popup-off = ラジオと近くのメッセージのみ聞こえるようになりました。
 
-ghost-target-window-title = Ghost Warp
-ghost-target-window-current-button = Warp: {$name}
-ghost-target-window-warp-to-most-followed = Warp to Most Followed
+ghost-target-window-title = ゴースト・ワープ
+ghost-target-window-current-button = ワープ：{$name}
+ghost-target-window-warp-to-most-followed = 最もフォローされている人にワープします
 
-ghost-roles-window-title = Ghost Roles
+ghost-roles-window-title = ゴーストの役割
 ghost-roles-window-available-button = Available ({$rolesCount})
-ghost-roles-window-join-raffle-button = Join raffle
+ghost-roles-window-join-raffle-button = 抽選会に参加する
 ghost-roles-window-raffle-in-progress-button =
     Join raffle ({$time} left, { $players ->
          [one] {$players} player
@@ -26,11 +26,11 @@ ghost-roles-window-leave-raffle-button =
          [one] {$players} player
         *[other] {$players} players
     })
-ghost-roles-window-request-role-button = Request
-ghost-roles-window-request-role-button-timer = Request ({$time}s)
-ghost-roles-window-follow-role-button = Follow
-ghost-roles-window-no-roles-available-label = There are currently no available ghost roles.
-ghost-roles-window-rules-footer = The button will enable after {$time} seconds (this delay is to make sure you read the rules).
+ghost-roles-window-request-role-button = リクエスト
+ghost-roles-window-request-role-button-timer = {$time}を要求
+ghost-roles-window-follow-role-button = フォローする
+ghost-roles-window-no-roles-available-label = 現在利用可能なゴーストロールはありません。
+ghost-roles-window-rules-footer = ボタンは{$time}秒後に有効になります（この遅延はルールを読んだことを確認するためです）。
 
-ghost-return-to-body-title = Return to Body
-ghost-return-to-body-text = You are being revived! Return to your body?
+ghost-return-to-body-title = 本文に戻る。
+ghost-return-to-body-text = あなたは復活しています！体に戻る？

@@ -2,6 +2,9 @@
   id: names_last
   values:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> stable
   - アベ
   - アブカラ
   - アダチ
@@ -1257,6 +1260,7 @@
   - ユアサ
   - ユハラ
   - ユノカワ
+<<<<<<< HEAD
 =======
   - Ackerley
   - Adams
@@ -1813,3 +1817,5 @@
   - Zoucks
 
 >>>>>>> upstream/master
+=======
+>>>>>>> stable

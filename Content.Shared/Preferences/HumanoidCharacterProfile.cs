@@ -451,7 +451,8 @@ namespace Content.Shared.Preferences
                 "humanoid-character-profile-summary",
                 ("name", Name),
                 ("gender", Gender.ToString().ToLowerInvariant()),
-                ("age", Age)
+                ("age", Age),
+                ("species", Species)
             );
 
         public bool MemberwiseEquals(ICharacterProfile maybeOther)

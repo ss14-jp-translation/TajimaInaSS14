@@ -11,12 +11,20 @@ humanoid-profile-editor-sex-unsexed-text = 何れも
 humanoid-profile-editor-age-label = 歳：
 humanoid-profile-editor-skin-color-label = 肌の色：
 humanoid-profile-editor-species-label = 種族：
+<<<<<<< HEAD
 humanoid-profile-editor-pronouns-label = Pronouns:
 humanoid-profile-editor-pronouns-male-text = He / Him
 humanoid-profile-editor-pronouns-female-text = She / Her
 humanoid-profile-editor-pronouns-epicene-text = They / Them
 <<<<<<< HEAD
 humanoid-profile-editor-pronouns-neuter-text = It / It
+=======
+humanoid-profile-editor-pronouns-label = 性同一性：
+humanoid-profile-editor-pronouns-male-text = 男性
+humanoid-profile-editor-pronouns-female-text = 女性
+humanoid-profile-editor-pronouns-epicene-text = 性別未定
+humanoid-profile-editor-pronouns-neuter-text = 性別なし
+>>>>>>> stable
 humanoid-profile-editor-import-button = インポート
 humanoid-profile-editor-export-button = エクスポート
 humanoid-profile-editor-export-image-button = 画像のエクスポート
@@ -34,6 +42,7 @@ humanoid-profile-editor-preference-backpack = バックパック
 humanoid-profile-editor-preference-satchel = サッチェル
 humanoid-profile-editor-preference-duffelbag = ダッフルバッグ
 humanoid-profile-editor-guidebook-button-tooltip = クリックすると詳細が表示されます。
+<<<<<<< HEAD
 =======
 humanoid-profile-editor-pronouns-neuter-text = It / Its
 humanoid-profile-editor-import-button = Import
@@ -54,6 +63,8 @@ humanoid-profile-editor-preference-satchel = Satchel
 humanoid-profile-editor-preference-duffelbag = Duffelbag
 humanoid-profile-editor-guidebook-button-tooltip = Click for more info
 >>>>>>> upstream/master
+=======
+>>>>>>> stable
 
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = なし

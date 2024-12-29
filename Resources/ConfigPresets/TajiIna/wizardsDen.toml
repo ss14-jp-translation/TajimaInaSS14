@@ -13,10 +13,17 @@ panic_bunker.show_reason = true
 panic_bunker.custom_reason = "You have not played on a Taji Ina server long enough to connect to this server. Please play on Taji Ina Lizard or Farm Grass Hopper until you have more playtime."
 
 [infolinks]
+<<<<<<< HEAD
 bug_report = "https://github.com/bedroomvampire/SS14-ja_JP/issues/new/choose"
 discord    = "https://discord.gg/teSumU7YrT"
 #forum      = "https://forum.spacestation14.io"
 github     = "https://github.com/bedroomvampire/SS14-ja_JP"
+=======
+bug_report = "https://github.com/ss14-jp-translation/SS14-ja_JP/issues/new/choose"
+discord    = "https://discord.gg/teSumU7YrT"
+#forum      = "https://forum.spacestation14.io"
+github     = "https://github.com/ss14-jp-translation/SS14-ja_JP"
+>>>>>>> stable
 #patreon    = "https://www.patreon.com/spacestation14"
 #website    = "https://spacestation14.io"
 #wiki       = "https://wiki.spacestation14.io"

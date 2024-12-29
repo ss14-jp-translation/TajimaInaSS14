@@ -1,3 +1,3 @@
-rule-death-match-added-announcement = The game is now a death match. Kill everybody else to win!
-rule-death-match-check-winner-stalemate = Everybody is dead, it's a stalemate!
-rule-death-match-check-winner = {$winner} wins the death match!
+rule-death-match-added-announcement = ゲームはデスマッチになった。勝つために他の全員を殺せ！
+rule-death-match-check-winner-stalemate = 全員死亡、膠着状態です！
+rule-death-match-check-winner = {$winner}がデスマッチに勝った！

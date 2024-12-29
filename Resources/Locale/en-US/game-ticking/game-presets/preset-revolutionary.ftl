@@ -1,73 +1,64 @@
 ## Rev Head
 
-roles-antag-rev-head-name = Head Revolutionary
-roles-antag-rev-head-objective = Your objective is to take over the station by converting people to your cause and killing all Command staff on station.
+roles-antag-rev-head-name = ヘッド革命家
+roles-antag-rev-head-objective = あなたの目的は、人々をあなたの大義に改宗させ、ステーションにいる司令部のスタッフを皆殺しにすることで、ステーションを乗っ取ることだ。
 
 head-rev-role-greeting =
-    You are a Head Revolutionary.
-    You are tasked with removing all of Command from station via death, exilement or imprisonment.
-    The Syndicate has sponsored you with a flash that converts the crew to your side.
-    Beware, this won't work on Security, Command, or those wearing sunglasses.
-    Viva la revolución!
+    あなたは革命家首班である。
+    死亡、流刑、投獄によって司令部全員をステーションから追い出すのが君の任務だ。
+    シンジケートはクルーたちをあなたの味方に変えるフラッシュをスポンサーしている。
+    保安部、司令部、サングラスをかけている者には効かないので注意。
+    革命万歳！
 
 head-rev-briefing =
-    Use flashes to convert people to your cause.
-    Get rid of all heads to take over the station.
+    フラッシュを使って、人々をあなたの大義に改宗させよう。
+    ステーションを引き継ぐために司令部のスタッフをすべて排除する。
 
-head-rev-break-mindshield = The Mindshield was destroyed!
+head-rev-break-mindshield = マインドシールドは破壊された！
 
 ## Rev
 
-roles-antag-rev-name = Revolutionary
-roles-antag-rev-objective = Your objective is to ensure the safety and follow the orders of the Head Revolutionaries as well as getting rid of all Command staff on station.
+roles-antag-rev-name = 革命家
+roles-antag-rev-objective = あなたの目的は、安全を確保し、革命軍トップの命令に従い、ステーションにいる司令部のスタッフをすべて排除することだ。
 
-rev-break-control = {$name} has remembered their true allegiance!
+rev-break-control = {$name}は彼らの真の忠誠心を思い出した！
 
 rev-role-greeting =
-    You are a Revolutionary.
-    You are tasked with taking over the station and protecting the Head Revolutionaries.
-    Get rid of all of the Command staff.
-    Viva la revolución!
+    あなたは革命家だ。
+    ステーションを占拠し、革命家たちを守るのだ。
+    司令部員を全員始末しろ。
+    革命万歳！
 
-rev-briefing = Help your head revolutionaries get rid of every head to take over the station.
+rev-briefing = ステーションを乗っ取るために、革命家たちが司令部員を全員排除するのを手伝おう。
 
 ## General
 
-rev-title = Revolutionaries
-rev-description = Revolutionaries are among us.
+rev-title = 革命家たち
+rev-description = 革命家は私たちの中にいる。
 
-rev-not-enough-ready-players = Not enough players readied up for the game. There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start a Revolution.
-rev-no-one-ready = No players readied up! Can't start a Revolution.
-rev-no-heads = There were no Head Revolutionaries to be selected. Can't start a Revolution.
+rev-not-enough-ready-players = ゲームに十分な選手が準備されていない。必要な{$minimumPlayers}人のうち{$readyPlayersCount}人が準備できていた。レボリューションを開始できません。
+rev-no-one-ready = 準備ができている選手がいない！レボリューションを開始できない。
+rev-no-heads = 選ばれるべきヘッド革命家がいなかった。レボリューションを開始できない。
 
-rev-won = The Head Revs survived and successfully seized control of the station.
+rev-won = ヘッドとなった革命家が生き残り、ステーションの制圧に成功した。
 
-rev-lost = Command survived and killed all of the Head Revs.
+rev-lost = 司令部が生き残り、頭目の革命家が全員殺された。
 
-rev-stalemate = All of the Head Revs and Command died. It's a draw.
+rev-stalemate = 革命軍と司令部が全員死亡。引き分け。
 
-rev-reverse-stalemate = Both Command and Head Revs survived.
+rev-reverse-stalemate = 司令部と頭脳革命軍の両方が生き残った。
 
-rev-headrev-count = {$initialCount ->
-    [one] There was one Head Revolutionary:
-    *[other] There were {$initialCount} Head Revolutionaries:
-}
+rev-headrev-count = ヘッド革命家は{$initialCount}人いた：
 
-rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) converted {$count} {$count ->
-    [one] person
-    *[other] people
-}
+rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color])は{$count}人を改心させた
 
-rev-headrev-name = [color=#5e9cff]{$name}[/color] converted {$count} {$count ->
-    [one] person
-    *[other] people
-}
+rev-headrev-name = [color=#5e9cff]{$name}[/color]は{$count}人を改心させた
 
 ## Deconverted window
 
-rev-deconverted-title = Deconverted!
+rev-deconverted-title = もう改心していない！
 rev-deconverted-text =
-    As the last headrev has died, the revolution is over.
+    最後のヘッドレフが死んだので、革命は終わった。
 
-    You are no longer a revolutionary, so be nice.
-rev-deconverted-confirm = Confirm
+    あなたはもう革命家ではないのだから、いい子にしていなさい。
+rev-deconverted-confirm = はい

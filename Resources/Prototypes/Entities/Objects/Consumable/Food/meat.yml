@@ -82,10 +82,10 @@
 # Raw
 
 - type: entity
-  name: raw meat
+  name: 生肉
   parent: FoodMeatRawBase
   id: FoodMeat
-  description: A slab of raw meat.
+  description: 生肉の塊。
   components:
   - type: Sprite
     state: plain
@@ -111,10 +111,10 @@
     - Meat
 
 - type: entity
-  name: raw human meat
+  name: 生人肉
   parent: FoodMeatRawBase
   id: FoodMeatHuman
-  description: Gross.
+  description: 気持ち悪い...
   components:
   - type: Sprite
     state: plain
@@ -936,10 +936,11 @@
       Taco: MeatChicken
 
 - type: entity
-  name: fried chicken
+  name: フライドチキン
+  suffix: 鶏の唐揚
   parent: FoodMeatBase
   id: FoodMeatChickenFried
-  description: A juicy hunk of chicken meat, fried to perfection.
+  description: ジューシーな鶏肉の塊を完璧に揚げたもの。
   components:
   - type: Tag
     tags:

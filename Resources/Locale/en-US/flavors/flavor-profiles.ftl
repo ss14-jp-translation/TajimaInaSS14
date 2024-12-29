@@ -1,6 +1,6 @@
-flavor-profile = Tastes {$flavor}.
-flavor-profile-multiple = Tastes {$flavors} and {$lastFlavor}.
-flavor-profile-unknown = Tastes indescribable.
+flavor-profile = 味は{$flavor}。
+flavor-profile-multiple = 味は{$flavors}くて{$lastFlavor}。
+flavor-profile-unknown = 何とも言えない味だ。
 
 # Base flavors. Use these when you can't think of anything.
 # These are specifically flavors that are placed in front
@@ -8,12 +8,12 @@ flavor-profile-unknown = Tastes indescribable.
 # will go in front so you don't get this like "Tastes like tomatoes, sweet and spicy",
 # instead, you get "Tastes sweet, spicy and like tomatoes".
 
-flavor-base-savory = savory
-flavor-base-sweet = sweet
-flavor-base-salty = salty
-flavor-base-sour = sour
-flavor-base-bitter = bitter
-flavor-base-spicy = spicy
+flavor-base-savory = 香ばしい
+flavor-base-sweet = 甘い
+flavor-base-salty = 塩辛い
+flavor-base-sour = 酸っぱい
+flavor-base-bitter = 苦い
+flavor-base-spicy = 辛い
 flavor-base-metallic = metallic
 flavor-base-meaty = meaty
 flavor-base-fishy = fishy

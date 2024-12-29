@@ -1,62 +1,62 @@
-reagent-name-absinthe = absinthe
-reagent-desc-absinthe = A anise-flavoured spirit derived from botanicals.
+reagent-name-absinthe = アブサン
+reagent-desc-absinthe = 植物由来のアニス風味の蒸留酒。
 
-reagent-name-ale = ale
-reagent-desc-ale = A dark alchoholic beverage made by malted barley and yeast.
+reagent-name-ale = エール
+reagent-desc-ale = 大麦麦芽と酵母によって作られる濃いアルコール飲料。
 
-reagent-name-beer = beer
-reagent-desc-beer = An alcoholic beverage made from malted grains, hops, yeast, and water.
+reagent-name-beer = ビール
+reagent-desc-beer = 麦芽、ホップ、酵母、水から作られるアルコール飲料。
 
-reagent-name-blue-curacao = blue curacao
-reagent-desc-blue-curacao = Exotically blue, fruity drink, distilled from oranges.
+reagent-name-blue-curacao = ブルー・キュラソー
+reagent-desc-blue-curacao = オレンジから蒸留された、エキゾチックな青色のフルーティーな飲み物。
 
-reagent-name-cognac = cognac
-reagent-desc-cognac = A sweet and strongly alcoholic drink, twice distilled and left to mature for several years. Classy as fornication.
+reagent-name-cognac = コニャック
+reagent-desc-cognac = 甘く強いアルコール飲料で、2回蒸留し、数年間熟成させる。姦淫のように上品。
 
-reagent-name-dead-rum = deadrum
-reagent-desc-dead-rum = Distilled alcoholic drink made from saltwater.
+reagent-name-dead-rum = デッドラム
+reagent-desc-dead-rum = 塩水から作られる蒸留アルコール飲料。
 
-reagent-name-ethanol = ethanol
-reagent-desc-ethanol = A simple alcohol, makes you drunk if consumed, flammable.
+reagent-name-ethanol = エタノール
+reagent-desc-ethanol = 単なるアルコールで、飲むと酔う。
 
-reagent-name-gin = gin
-reagent-desc-gin = A distilled alcoholic drink that derives its predominant flavour from juniper berries.
+reagent-name-gin = ジン
+reagent-desc-gin = ジュニパーベリーを主成分とする蒸留アルコール飲料。
 
-reagent-name-coffeeliqueur = coffee liqueur
-reagent-desc-coffeeliqueur = Liquor flavoured with cold brewed coffee and spices.
+reagent-name-coffeeliqueur = コーヒーリキュール
+reagent-desc-coffeeliqueur = コールドブリューコーヒーとスパイスで風味をつけたリキュール。
 
-reagent-name-melon-liquor = melon liquor
-reagent-desc-melon-liquor = A relatively sweet and fruity 46 proof liquor.
+reagent-name-melon-liquor = メロン・リキュール
+reagent-desc-melon-liquor = 比較的甘くフルーティーな46プルーフの酒。
 
-reagent-name-n-t-cahors = NeoTheology Cahors Wine
-reagent-desc-n-t-cahors = Fortified dessert wine made from cabernet sauvignon, saperavi and other grapes.
+reagent-name-n-t-cahors = NeoTheology カオール・ワイン
+reagent-desc-n-t-cahors = カベルネ・ソーヴィニヨン、サペラヴィ、その他のブドウから造られる酒精強化デザートワイン。
 
-reagent-name-poison-wine = poison wine
-reagent-desc-poison-wine = Is this even wine? Toxic! Hallucinogenic! Probably consumed in boatloads by your superiors!
+reagent-name-poison-wine = 毒ワイン
+reagent-desc-poison-wine = 有毒！幻覚作用がある！おそらくあなたの上司が大量に消費している！
 
-reagent-name-rum = rum
-reagent-desc-rum = Distilled alcoholic drink made from sugarcane byproducts.
+reagent-name-rum = ラム酒
+reagent-desc-rum = サトウキビの副産物から作られる蒸留アルコール飲料。
 
-reagent-name-sake = sake
-reagent-desc-sake = Alcoholic beverage made by fermenting rice that has been polished.
+reagent-name-sake = 日本酒
+reagent-desc-sake = 精米した米を発酵させて作るアルコール飲料。
 
-reagent-name-tequila = tequila
-reagent-desc-tequila = A strong and mildly flavoured, mexican produced spirit.
+reagent-name-tequila = テキーラ
+reagent-desc-tequila = メキシカンで生産される、強くてマイルドな風味の蒸留酒。
 
-reagent-name-vermouth = vermouth
-reagent-desc-vermouth = Aromatized, fortified white wine flavored with various botanicals.
+reagent-name-vermouth = ベルモット。
+reagent-desc-vermouth = 様々な植物で味付けされた、芳香のある酒精強化白ワイン。
 
-reagent-name-vodka = vodka
-reagent-desc-vodka = Clear distilled alcoholic beverage that originates from Poland and Russia.
+reagent-name-vodka = ウォッカ。
+reagent-desc-vodka = ポーランドとロシア原産の透明な蒸留アルコール飲料。
 
-reagent-name-whiskey = whiskey
-reagent-desc-whiskey = A type of distilled alcoholic beverage made from fermented grain mash.
+reagent-name-whiskey = ウイスキー
+reagent-desc-whiskey = 発酵させた穀物のマッシュから作られる蒸留アルコール飲料の一種。
 
-reagent-name-wine = wine
-reagent-desc-wine = An premium alchoholic beverage made from distilled grape juice.
+reagent-name-wine = ワイン。
+reagent-desc-wine = 蒸留したブドウ果汁から作られる高級アルコール飲料。
 
-reagent-name-champagne = champagne
-reagent-desc-champagne = A premium sparkling wine
+reagent-name-champagne = シャンパン。
+reagent-desc-champagne = 高級スパークリングワイン。
 
 reagent-name-acid-spit = acidspit
 reagent-desc-acid-spit = A drink for the daring, can be deadly if incorrectly prepared!
@@ -106,17 +106,17 @@ reagent-desc-bloody-mary = A strange yet pleasurable mixture made of vodka, toma
 reagent-name-booger = booger
 reagent-desc-booger = Ewww...
 
-reagent-name-brave-bull = brave bull
-reagent-desc-brave-bull = It's just as effective as Dutch-Courage!
+reagent-name-brave-bull = 勇敢な雄牛
+reagent-desc-brave-bull = Dutch-Courageと同じくらい効果的です！
 
-reagent-name-coconut-rum = coconut rum
-reagent-desc-coconut-rum = Rum with coconut for that tropical feel.
+reagent-name-coconut-rum = ココナッツ・ラム
+reagent-desc-coconut-rum = ココナッツ入りのラム酒で、トロピカルな気分を味わえます。
 
-reagent-name-cosmopolitan = cosmopolitan
-reagent-desc-cosmopolitan = Even in the worst situations, nothing beats a fresh cosmopolitan.
+reagent-name-cosmopolitan = コスモポリタン
+reagent-desc-cosmopolitan = 最悪の状況でも、フレッシュなコスモポリタンに勝るものはない。
 
-reagent-name-cuba-libre = cuba libre
-reagent-desc-cuba-libre = Rum, mixed with cola. Viva la revolucion.
+reagent-name-cuba-libre = キューバ・リブレ
+reagent-desc-cuba-libre = ラム酒をコーラで割ったもの。ビバ・ラ・レボリューション!
 
 reagent-name-demons-blood = demons blood
 reagent-desc-demons-blood = AHHHH!!!!
@@ -187,14 +187,14 @@ reagent-desc-margarita = On the rocks with salt on the rim. Arriba~!
 reagent-name-martini = classic martini
 reagent-desc-martini = Vermouth with Gin. Not quite how 007 enjoyed it, but still delicious.
 
-reagent-name-mead = mead
-reagent-desc-mead = A Viking's drink, though a cheap one.
+reagent-name-mead = 蜂蜜酒
+reagent-desc-mead = ヴァイキングの飲み物。
 
 reagent-name-mojito = mojito
 reagent-desc-mojito = If it's good enough for Spesscuba, it's good enough for you.
 
-reagent-name-moonshine = moonshine
-reagent-desc-moonshine = Artisanal homemade liquor. What could go wrong?
+reagent-name-moonshine = 密造酒
+reagent-desc-moonshine = 職人の手作り酒。何がいけないのだろう？
 
 reagent-name-neurotoxin = neurotoxin
 reagent-desc-neurotoxin = A strong neurotoxin that puts the subject into a death-like state.
@@ -229,14 +229,14 @@ reagent-desc-silencer = A drink from Mime Heaven.
 reagent-name-singulo = singulo
 reagent-desc-singulo = A blue-space beverage!
 
-reagent-name-snow-white = snow white
-reagent-desc-snow-white = A cold refreshment.
+reagent-name-snow-white = スノーホワイト
+reagent-desc-snow-white = ミラー・ミラー・オン・ザ・ウォール
 
 reagent-name-sui-dream = sui dream
 reagent-desc-sui-dream = 'Comprised of: White soda, blue curacao, melon liquor.'
 
-reagent-name-syndicate-bomb = syndicate bomb
-reagent-desc-syndicate-bomb = Somebody set us up the bomb!
+reagent-name-syndicate-bomb = 0-WING
+reagent-desc-syndicate-bomb = 「何者かによって、爆発物が仕掛けられたようです。」
 
 reagent-name-tequila-sunrise = tequila sunrise
 reagent-desc-tequila-sunrise = Tequila and orange juice. Much like a Screwdriver, only Mexican.

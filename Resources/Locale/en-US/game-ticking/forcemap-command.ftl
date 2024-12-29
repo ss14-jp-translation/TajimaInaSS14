@@ -1,9 +1,9 @@
 ﻿## Forcemap command loc.
 
-forcemap-command-description = Forces the game to start with a given map next round.
+forcemap-command-description = 次のラウンドで指定されたマップからゲームを開始させる。
 forcemap-command-help = forcemap <map ID>
-forcemap-command-need-one-argument = forcemap takes one argument, the path to the map file.
-forcemap-command-map-not-found = No eligible map exists with name { $map }.
-forcemap-command-success = Forced the game to start with map { $map } next round.
-forcemap-command-cleared = Cleared the forced map setting.
+forcemap-command-need-one-argument = forcemapは1つの引数、マップファイルへのパスを取る。
+forcemap-command-map-not-found = { $map }という名前のマップは存在しません。
+forcemap-command-success = 次のラウンドでマップ { $map } からゲームを開始するように強制した。
+forcemap-command-cleared = 強制マップの設定をクリアした。
 forcemap-command-arg-map = <map ID>

@@ -3,7 +3,17 @@
 # Nothing specific yet
 
 [game]
+<<<<<<< HEAD
 hostname = "[JP]田島稲のSS14サーバー"
 
 [hub]
 tags = "lang:ja,region:unspecified,rp:low"
+=======
+hostname = "[JP][LRP]田島稲のSS14"
+
+[hub]
+tags = "lang:ja,region:as_se,rp:low"
+
+[loki]
+name = "reviazan"
+>>>>>>> stable

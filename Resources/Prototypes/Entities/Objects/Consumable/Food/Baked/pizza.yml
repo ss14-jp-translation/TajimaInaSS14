@@ -66,10 +66,10 @@
 # Pizza
 
 - type: entity
-  name: margherita pizza
+  name: マルゲリータ・ピザ
   parent: FoodPizzaBase
   id: FoodPizzaMargherita
-  description: The flavor of Italy.
+  description: イタリアの味。
   components:
   - type: FlavorProfile
     flavors:
@@ -83,10 +83,10 @@
     slice: FoodPizzaMargheritaSlice
 
 - type: entity
-  name: slice of margherita pizza
+  name: マルゲリータ・ピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaMargheritaSlice
-  description: A slice of Italy.
+  description: イタリアの切れ端。
   components:
   - type: FlavorProfile
     flavors:
@@ -98,10 +98,10 @@
     - state: margherita-slice
 
 - type: entity
-  name: meat pizza
+  name: ミートピザ
   parent: FoodPizzaBase
   id: FoodPizzaMeat
-  description: Greasy pizza with delicious meat.
+  description: ピザの上に肉のかけらが乗っている。
   components:
   - type: FlavorProfile
     flavors:
@@ -120,10 +120,10 @@
     - Pizza
 
 - type: entity
-  name: slice of meat pizza
+  name: ミートピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaMeatSlice
-  description: A nutritious slice of meatpizza.
+  description: 肉厚のピザ一切れ。
   components:
   - type: FlavorProfile
     flavors:
@@ -142,10 +142,10 @@
 # Tastes like crust, tomato, cheese, meat.
 
 - type: entity
-  name: mushroom pizza
+  name: きのこピザ
   parent: FoodPizzaBase
   id: FoodPizzaMushroom
-  description: Very special pizza.
+  description: 特別なキノコのピザ。
   components:
   - type: FlavorProfile
     flavors:
@@ -159,10 +159,10 @@
     slice: FoodPizzaMushroomSlice
 
 - type: entity
-  name: slice of mushroom pizza
+  name: きのこピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaMushroomSlice
-  description: Maybe it is the last slice of pizza in your life.
+  description: 人生で最後の一切れのピザかもしれない。
   components:
   - type: FlavorProfile
     flavors:
@@ -175,10 +175,10 @@
 # Tastes like crust, tomato, cheese, mushroom.
 
 - type: entity
-  name: vegetable pizza
+  name: ベジタブルピザ
   parent: FoodPizzaBase
   id: FoodPizzaVegetable
-  description: The station's vegetarians will thank you for making this.
+  description: 肉の漢字は、よく考えると葉っぱに見える。
   components:
   - type: FlavorProfile
     flavors:
@@ -206,10 +206,10 @@
           Quantity: 5
 
 - type: entity
-  name: slice of vegetable pizza
+  name: ベジタブルピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaVegetableSlice
-  description: A slice of this is enough to satisfy even the pickiest station personnel.
+  description: この一切れを食べれば、どんなにうるさい駅員でも満足できるだろう。
   components:
   - type: FlavorProfile
     flavors:
@@ -238,10 +238,10 @@
 # Tastes like crust, tomato, cheese, carrot.
 
 - type: entity
-  name: donk-pocket pizza
+  name: ドンクポケットピザ
   parent: FoodPizzaBase
   id: FoodPizzaDonkpocket
-  description: Who thought this would be a good idea?
+  description: すみません、それは何ですか？
   components:
   - type: FlavorProfile
     flavors:
@@ -269,7 +269,7 @@
 
 
 - type: entity
-  name: slice of donk-pocket pizza
+  name: ドンクポケットピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaDonkpocketSlice
   description: Smells like donk-pocket.
@@ -299,10 +299,10 @@
 # Tastes like crust, tomato, cheese, meat, laziness.
 
 - type: entity
-  name: dank pizza
+  name: ダンクピザ
   parent: FoodPizzaBase
   id: FoodPizzaDank
-  description: The hippie's pizza of choice.
+  description: ヒッピーが選ぶピザ。
   components:
   - type: FlavorProfile
     flavors:
@@ -326,10 +326,10 @@
           Quantity: 30
 
 - type: entity
-  name: slice of dank pizza
+  name: ダンクピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaDankSlice
-  description: So good, man...
+  description: すごくいい〜
   components:
   - type: FlavorProfile
     flavors:
@@ -396,10 +396,10 @@
 # Tastes like crust, tomato, cheese, sausage, sass.
 
 - type: entity
-  name: Hawaiian pizza
+  name: ハワイアンピザ
   parent: FoodPizzaBase
   id: FoodPizzaPineapple
-  description: Makes people burst into tears. Tears of joy or sadness depends on the person's fondness for pineapple.
+  description: 実はカナダ製だということをご存知でしたか？
   components:
   - type: FlavorProfile
     flavors:
@@ -419,10 +419,10 @@
     - Pizza
 
 - type: entity
-  name: slice of Hawaiian pizza
+  name: ハワイアンピザ一切れ
   parent: FoodPizzaSliceBase
   id: FoodPizzaPineappleSlice
-  description: A slice of joy/sin.
+  description: 人によっては喜びか悲しみか、涙を誘う一切れだ。
   components:
   - type: FlavorProfile
     flavors:

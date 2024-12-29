@@ -1,2 +1,2 @@
-﻿health-examinable-verb-text = Health
-health-examinable-verb-disabled = Perform a basic health examination in close range.
+﻿health-examinable-verb-text = 健康
+health-examinable-verb-disabled = 至近距離で基本的な健康診断を行う。

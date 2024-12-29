@@ -2,10 +2,10 @@
 #1D2L3U4R
 
 - type: entity
-  name: Ian
+  name: イアン
   parent: MobCorgi
   id: MobCorgiIan
-  description: Favorite pet corgi.
+  description: 同局のお気に入りのペット、コーギー。
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -38,10 +38,10 @@
     stealGroup: AnimalIan
 
 - type: entity
-  name: Old Ian
+  name: オルド・イアン
   parent: MobCorgiIan
   id: MobCorgiIanOld
-  description: Still the favorite pet corgi. Love his wheels.
+  description: 今でも局のお気に入りペットのコーギー。彼の車輪が大好き。
   components:
   - type: Sprite
     layers:
@@ -63,10 +63,10 @@
     - id: MaterialHideCorgi
 
 - type: entity
-  name: Lisa
+  name: リサ
   parent: MobCorgiIan
   id: MobCorgiLisa
-  description: Ian's favorite corgi.
+  description: イアンの大好きなコーギー。
   components:
   - type: Sprite
     layers:
@@ -86,10 +86,10 @@
       gender: female
 
 - type: entity
-  name: real mouse
+  name: イアン・マウス
   parent: MobCorgiIan
   id: MobCorgiMouse
-  description: It's 100% a real hungry mouse.
+  description: そう、そう...　本当にお腹を空かせたネズミなんだ。
   components:
   - type: Sprite
     layers:
@@ -109,10 +109,10 @@
       gender: female
 
 - type: entity
-  name: Puppy Ian
+  name: パピー・イアン
   parent: MobCorgiPuppy
   id: MobCorgiIanPup
-  description: Favourite puppy corgi. Awww.
+  description: 局のお気に入りの子犬コーギー。かわいー！！！
   components:
   - type: Grammar
     attributes:
@@ -127,10 +127,10 @@
     stealGroup: AnimalIan
 
 - type: entity
-  name: Runtime
+  name: ランタイム
   parent: MobCat
   id: MobCatRuntime
-  description: Professional mouse hunter. Escape artist.
+  description: プロのネズミハンター。脱出アーティスト。
   components:
   - type: NpcFactionMember
     factions:
@@ -150,7 +150,7 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Exception
+  name: エクセプション
   id: MobCatException
   parent: MobCatCalico
   description: Ask nicely, and maybe they'll give you one of their spare lives.
@@ -170,7 +170,7 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Floppa
+  name: フロッパ
   id: MobCatFloppa
   parent: MobCatCaracal
   description: He out here.
@@ -197,10 +197,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Bandito
+  name: バンディト
   parent: MobFerret
   id: MobBandito
-  description: Just a silly little guy!
+  description: ただのおバカちゃんだ！
   components:
   - type: Grammar
     attributes:
@@ -212,10 +212,10 @@
     - VimPilot
 
 - type: entity
-  name: Bingus
+  name: ビングス
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobBingus
-  description: Bingus my beloved...
+  description: 愛するビンガス...
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -269,10 +269,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: McGriff
+  name: マクグリッフ
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobMcGriff
-  description: This dog can tell something smells around here, and that something is CRIME!
+  description: この犬はこのあたりで何かが臭うことを察知する！
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -328,10 +328,10 @@
     stealGroup: AnimalMcGriff
 
 - type: entity
-  name: Paperwork
+  name: ペーパーワーク
   parent: MobSloth
   id: MobPaperwork
-  description: Took up a new job sorting books in the library after he got transferred from Space Station 13. He seems to be just as slow at this.
+  description: 彼は日本語学科に移ったばかりで、コミュニケーション能力は低い。ただし、彼は英語も遅い。
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -362,10 +362,10 @@
       gender: male
 
 - type: entity
-  name: Walter
+  name: ウォルター
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobWalter
-  description: He likes chems and treats. Walter.
+  description: ウェイター！ウェイター！化学薬品をもっとください！
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -421,10 +421,10 @@
     stealGroup: AnimalWalter
 
 - type: entity
-  name: Morty
+  name: モーティ
   parent: MobPossum
   id: MobPossumMorty
-  description: The station's resident Didelphis virginiana. A sensitive but resilient kind of guy.
+  description: ステーションのヴァージニア・オポッサム。繊細だが逞しいタイプ。
   components:
   - type: InteractionPopup
     successChance: 1.0 # Hey, c'mon, this is Morty we're talking about here.
@@ -445,10 +445,10 @@
     stealGroup: AnimalMorty
 
 - type: entity
-  name: Morty
+  name: オルド・モーティマー
   parent: MobPossumMorty
   id: MobPossumMortyOld
-  suffix: Old sprite
+  description: モーティの先祖で、繊細だが回復力のあるタイプ。
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -464,10 +464,10 @@
         Base: possum_dead_old
 
 - type: entity
-  name: Poppy # the Safety Possum
+  name: ポッピー # the Safety Possum
   parent: MobPossumMorty
   id: MobPossumPoppy
-  description: It's an opossum, a small scavenging marsupial. It's wearing appropriate personal protective equipment.
+  description: オポッサムという小型の清掃用有袋類だ。適切な保護具を着用している。
   components:
   - type: Grammar
     attributes:
@@ -487,10 +487,10 @@
         Base: poppy_dead
 
 - type: entity
-  name: Morticia
+  name: モーティシア
   parent: MobRaccoon
   id: MobRaccoonMorticia
-  description: A powerful creature of the night. Her eyeshadow is always on point.
+  description: パワフルな夜の生き物。モーティシアのアイシャドウはいつもポイントになる。
   components:
   - type: InteractionPopup
     successChance: 0.7
@@ -509,10 +509,10 @@
     - VimPilot
 
 - type: entity
-  name: Alexander
+  name: アレクサンダー
   parent: MobPig
   id: MobAlexander
-  description: Chef's finest colleague.
+  description: シェフの最高の同僚。
   components:
   - type: InteractionPopup
     successChance: 1
@@ -531,10 +531,10 @@
     - VimPilot
 
 - type: entity
-  name: Renault
+  name: ルノー
   parent: MobFox
   id: MobFoxRenault
-  description: The captain's trustworthy fox.
+  description: キャプテンの信頼できるキツネだ。
   components:
   - type: InteractionPopup
     successChance: 1
@@ -561,10 +561,10 @@
     stealGroup: AnimalRenault
 
 - type: entity
-  name: Hamlet
+  name: ハムレット
   parent: MobHamster
   id: MobHamsterHamlet
-  description: A grumpy, cute and fluffy hamster.
+  description: 生きるか死ぬか...　不機嫌で、かわいくて、ふわふわのハムスターにしか答えられない質問だ。　# To be or not to be... a grumpy, cute and fluffy hamster.
   components:
   - type: Sprite
     drawdepth: SmallMobs
@@ -614,10 +614,10 @@
     - sadness
 
 - type: entity
-  name: Shiva
+  name: シヴァ
   parent: MobGiantSpider
   id: MobSpiderShiva
-  description: The first defender of the station.
+  description: ステーションの最初の守護神。
   components:
   - type: InteractionPopup
     successChance: 0.5 # spider is mean
@@ -679,10 +679,10 @@
     stealGroup: AnimalShiva
 
 - type: entity
-  name: Willow
+  name: ウィロー
   parent: MobKangaroo
   id: MobKangarooWillow
-  description: Willow the boxing kangaroo.
+  description: ボクシング・カンガルーのウィロー。
   components:
   - type: InteractionPopup
     successChance: 0.8
@@ -710,10 +710,15 @@
     prototypes: [ BoxingKangarooGear ]
 
 - type: entity
-  name: Smile
+  name: スマイル
   id: MobSlimesPet
+<<<<<<< HEAD
   parent: [MobAdultSlimes, StripableInventoryBase]
   description: This masterpiece has gone through thousands of experiments. But it is the sweetest creature in the world. Smile Slime!
+=======
+  parent: MobAdultSlimes
+  description: この傑作は何千もの実験を経てきた。しかし、それは世界で最も甘い生き物です。スマイル、してますか？
+>>>>>>> stable
   components:
   - type: Sprite
     layers:
@@ -794,10 +799,10 @@
       gender: female
 
 - type: entity
-  name: Pun Pun
+  name: プンプン
   parent: MobMonkey
   id: MobMonkeyPunpun
-  description: A prominent representative of monkeys with unlimited access to alcohol.
+  description: アルコールに無制限にアクセスできるサルの代表格。
   components:
   - type: GhostRole
     prob: 1
@@ -829,10 +834,10 @@
       gender: male
 
 - type: entity
-  name: Tropico
+  name: トロピコ
   parent: MobCrab
   id: MobCrabAtmos
-  description: The noble and stalwart defender of Atmosia. Viva!
+  description: アトモシアの気高く勇敢な守護者。ビバ！
   components:
 #  - type: GhostRole
 #    prob: 1

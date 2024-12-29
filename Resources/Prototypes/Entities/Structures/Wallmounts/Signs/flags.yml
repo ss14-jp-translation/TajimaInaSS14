@@ -12,8 +12,8 @@
 - type: entity
   parent: BaseFlag
   id: BlankFlag
-  name: blank flag
-  description: Some piece of white cloth. Definitely not the flag of France.
+  name: 白旗
+  description: 白い布。
   components:
   - type: Sprite
     state: blank_flag
@@ -21,8 +21,8 @@
 - type: entity
   parent: BaseFlag
   id: NTFlag
-  name: Nanotrasen flag
-  description: Glory to NT! Wait, they really made a flag for a corporation?
+  name: Nanotrasen旗
+  description: Nanotrasenに栄光あれ！本当に企業の旗を作ったのか？
   components:
   - type: Sprite
     state: NT_flag
@@ -30,26 +30,26 @@
 - type: entity
   parent: BaseFlag
   id: SyndieFlag
-  name: syndicate flag
-  description: Smells bloody. Death to NT!
+  name: シンジケート旗
+  description: この旗から漂う血の匂いを嗅ぐと、何か言いたくなる。Nanotrasenをぶっ壊す！
   components:
   - type: Sprite
     state: syndie_flag
-    
+
 - type: entity
   parent: BaseFlag
   id: LGBTQFlag
-  name: LGBTQ flag
-  description: "\"Be gay do crime\" flag."
+  name: LGBTQ+旗
+  description: これはすべてのフレーバーがある。
   components:
   - type: Sprite
     state: lgbtq_flag
-    
+
 - type: entity
   parent: BaseFlag
   id: PirateFlag
-  name: pirate flag
-  description: Raise the jolly roger, scallywags!
+  name: 海賊旗
+  description: ワンピースは実在する!!!
   components:
   - type: Sprite
     state: pirate_flag

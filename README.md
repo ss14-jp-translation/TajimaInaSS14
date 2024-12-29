@@ -8,9 +8,9 @@ SS14-ja_JPのホスティングやコンテンツ作成を希望される方の�
 
 ## リンク
 
-[SS14 Website](https://spacestation14.io/) | [Discord [server by inatajimao5w]](https://discord.gg/teSumU7YrT) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
+[Wiki](https://seesaawiki.jp/spacestation14_jp/) | [Discord [server by inatajimao5w]](https://discord.gg/teSumU7YrT) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
 
-## 文書化/ウィキ
+## 文書化
 
 ~~Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.~~
 

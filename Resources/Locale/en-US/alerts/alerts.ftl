@@ -26,22 +26,29 @@ alerts-weightless-name = 無重力
 alerts-weightless-desc =
     重力があなたに影響しなくなり、あなたはあてもなく漂っています。何かしっかりしたものを見つけてつかむか、反対方向に何かを投げたり撃ったりしてください。
     マグブーツやジェットパックを使用すると、よりコントロールしながら移動できます。
+<<<<<<< HEAD
+=======
 
-alerts-stunned-name = [color=yellow]Stunned[/color]
-alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.
+alerts-stunned-name = [color=yellow]気絶[/color]
+alerts-stunned-desc = [color=yellow]あなたは気絶しています！[/color]何かがあなたの移動やオブジェクトとの相互作用の能力を損なっています。
+>>>>>>> stable
 
-alerts-handcuffed-name = [color=yellow]Handcuffed[/color]
-alerts-handcuffed-desc = You're [color=yellow]handcuffed[/color] and can't use your hands. If anyone drags you, you won't be able to resist.
+alerts-handcuffed-name = [color=yellow]手錠をかけられています。[/color]
+alerts-handcuffed-desc = [color=yellow]あなたは手錠[/color]をかけられており、手を使うことができません。もし誰かに引きずられたら、抵抗することはできないでしょう。
 
-alerts-ensnared-name = [color=yellow]Ensnared[/color]
-alerts-ensnared-desc = You're [color=yellow]ensnared[/color] and is impairing your ability to move.
+alerts-ensnared-name = [color=yellow]エンスナレッド。[/color]
+alerts-ensnared-desc = [color=yellow]あなたは捕らわれており[/color]、動く能力が損なわれています。
 
-alerts-buckled-name = [color=yellow]Buckled[/color]
-alerts-buckled-desc = You've been [color=yellow]buckled[/color] to something. Click the alert to unbuckle unless you're [color=yellow]handcuffed.[/color]
+alerts-buckled-name = [color=yellow]バックルされています。[/color]
+alerts-buckled-desc = [color=yellow]あなたは何かにバックルされています。[/color] アラートをクリックすると、手錠をかけられていない限りバックルが外れます。
 
-alerts-crit-name = [color=red]Critical Condition[/color]
-alerts-crit-desc = You're severely injured and unconscious.
+alerts-crit-name = [color=red]危篤状態[/color]です。
+alerts-crit-desc = 重傷で意識がありません。
 
+alerts-dead-name = 死んでいる
+alerts-dead-desc = あなたは死んでいますが、まだ復活することできます。
+
+<<<<<<< HEAD
 alerts-dead-name = 死んでいる
 alerts-dead-desc = あなたは死んでいますが、まだ復活することできます。
 
@@ -53,13 +60,27 @@ alerts-battery-desc = If your battery depletes, you will be unable to use your a
 
 alerts-no-battery-name = バッテリーなし
 alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
+=======
+alerts-health-name = 健康
+alerts-health-desc = [color=green]緑[/color]は良い、[color=red]赤[/color]は悪い。
 
-alerts-internals-name = Toggle internals
-alerts-internals-desc = Toggles your gas tank internals on or off.
+alerts-battery-name = バッテリー
+alerts-battery-desc = バッテリーが消耗すると、能力が使えなくなる。
 
-alerts-piloting-name = Piloting Shuttle
-alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
+alerts-no-battery-name = バッテリーなし
+alerts-no-battery-desc = バッテリーがないため、充電も能力も使えない。
 
+alerts-internals-name = 内部部品の切り替え
+alerts-internals-desc = ガスタンクの内部部品のオン・オフを切り替えます。
+>>>>>>> stable
+
+alerts-piloting-name = シャトルを操縦
+alerts-piloting-desc = あなたはシャトルを操縦しています、停止するにはアラートをクリックしてください。
+
+alerts-hunger-name = [color=yellow]ひもじい[/color]
+alerts-hunger-desc = 何か食べ物があれば今頃はいいのだが。
+
+<<<<<<< HEAD
 alerts-hunger-name = [color=yellow]ひもじい[/color]
 alerts-hunger-desc = Some food would be good right about now.
 
@@ -77,36 +98,52 @@ alerts-parched-desc = You're severely thirsty. The thirst makes moving around a 
 
 alerts-muted-name = ミュート
 alerts-muted-desc = You have lost the ability to speak.
+=======
+alerts-stamina-name = スタミナ
+alerts-stamina-desc = 低すぎると気絶する。
 
-alerts-vow-silence-name = Vow of Silence
-alerts-vow-silence-desc = You have taken a vow of silence as part of initiation into the Mystiko Tagma Mimon. Click to break your vow.
+alerts-starving-name = [color=red]とてもひもじい[/color]
+alerts-starving-desc = あなたはひどい栄養失調です。空腹痛のために動き回るのが億劫になっている。
 
-alerts-vow-broken-name = Vow Broken
-alerts-vow-broken-desc = You've broken your vows to Mimes everywhere. You can speak, but you've lost your powers for at least 5 entire minutes!!! Click to try and retake your vow.
+alerts-thirsty-name = [color=yellow]乾く[/color]
+alerts-thirsty-desc = 何か飲み物があれば今頃はいいのだが。
 
-alerts-pulled-name = Pulled
-alerts-pulled-desc = You're being pulled. Move to break free.
+alerts-parched-name = [color=red]とても乾く[/color]
+alerts-parched-desc = あなたはひどく喉が渇いている。のどの渇きで動き回るのが億劫になっている。
 
-alerts-pulling-name = Pulling
-alerts-pulling-desc = You're pulling something. Click the alert to stop.
+alerts-muted-name = ミュート
+alerts-muted-desc = あなたは話す能力を失っている。
 
-alerts-bleed-name = [color=red]Bleed[/color]
-alerts-bleed-desc = You're [color=red]bleeding[/color].
+alerts-vow-silence-name = 沈黙の誓い
+alerts-vow-silence-desc = あなたはMystiko Tagma Mimonへのイニシエーションの一環として沈黙の誓いを立てました。誓いを破るにはクリックしてください。
+>>>>>>> stable
 
-alerts-pacified-name = [color=green]Pacified[/color]
-alerts-pacified-desc = You're pacified; you won't be able to harm living creatures.
+alerts-vow-broken-name = 誓いが破られました。
+alerts-vow-broken-desc = あなたはあらゆるミイムへの誓いを破りました。話すことはできますが、少なくとも丸5分間は力を失います！クリックして誓いを取り戻してください。
 
-alerts-adrenaline-name = [color=red]Adrenaline[/color]
-alerts-adrenaline-desc = You're full of adrenaline: pain won't slow you down.
+alerts-pulled-name = 引き出されました
+alerts-pulled-desc = あなたは引っ張られている。手放すために動きなさい。
 
-alerts-suit-power-name = Suit Power
-alerts-suit-power-desc = How much power your space ninja suit has.
+alerts-pulling-name = 引っ張る
+alerts-pulling-desc = 何かを引っ張っています。アラートをクリックすると止まります。
 
-alerts-magboots-name = Magboots
-alerts-magboots-desc = You are immune to airflow, but slightly slower.
+alerts-bleed-name = [color=red]出血[/color]
+alerts-bleed-desc = [color=red]出血しています。[/color]
 
-alerts-revenant-essence-name = Essence
-alerts-revenant-essence-desc = The power of souls. It sustains you and is used for abilities. It regenerates slowly over time.
+alerts-pacified-name = [color=green]おしゃぶり[/color].
+alerts-pacified-desc = あなたはおしゃぶりです。生き物に危害を加えることはできません。
 
-alerts-revenant-corporeal-name = Corporeal
-alerts-revenant-corporeal-desc = You have manifested physically. People around you can see and hurt you.
+alerts-adrenaline-name = [color=red]アドレナリン[/color]。
+alerts-adrenaline-desc = あなたはアドレナリンで満たされている。
+
+alerts-suit-power-name = スーツパワー
+alerts-suit-power-desc = あなたのスペースニンジャスーツのパワー。
+
+alerts-magboots-name = マグブーツ
+alerts-magboots-desc = 気流の影響を受けにくくなるが、スピードは少し落ちる。
+
+alerts-revenant-essence-name = エッセンス
+alerts-revenant-essence-desc = 魂の力。あなたを支え、能力に使用される。時間の経過とともにゆっくりと再生する。
+
+alerts-revenant-corporeal-name = コーポリアル
+alerts-revenant-corporeal-desc = あなたは肉体を持って現れます。周囲の人々はあなたを見ることができ、傷つけることができる。

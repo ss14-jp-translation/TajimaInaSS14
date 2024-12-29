@@ -1,18 +1,18 @@
 ﻿<Document>
-  # Core Rule 5 - Do not use out of game methods to communicate with other players
-  This is a zero tolerance rule.
+  # メインルール5 - ゲーム外の方法で他のプレーヤーとコミュニケーションをとってはならない。
+  これはゼロ・トレランスのルールである。
 
-  Do not utilize any external means of communication to talk to other players who are connected to the same server, or who were connected to the same server during the current round. This is referred to as "metacomming" and includes any means of communication including text, voice, images, and video. This includes applications such as Discord, Steam, and other platforms, along with in-person communication.
+  同じサーバーに接続している、または現在のラウンド中に同じサーバーに接続していた他のプレイヤーと会話するために、いかなる外部通信手段も利用してはならない。これは「メタコミ」と呼ばれ、テキスト、音声、画像、動画を含むあらゆる通信手段を含みます。これには、Discord、Steam、その他のプラットフォームなどのアプリケーションや、対面でのコミュニケーションも含まれます。
 
-  Even if information is not being shared or abused, it may still be considered a violation of this rule. Due to the difficulty of determining if information is being shared, it will almost always be presumed that people who message another player they are in a round with, or who are in a voice call with another player during a round are sharing round information. Due to the difficulty of determining if users are abusing information that they are sharing, it will almost always be presumed that the information is being abused.
+  情報の共有や悪用が行われていなくても、本ルール違反とみなされる場合があります。情報が共有されているかどうかを判断するのは困難なため、ラウンド中に他のプレイヤーとメッセージを送ったり、音声通話をしたりした場合は、ほとんどの場合、ラウンド情報を共有しているとみなされます。ユーザーが共有している情報を悪用しているかどうかを判断するのは難しいため、ほとんどの場合、情報は悪用されていると推定されます。
 
-  The only exemption to this rule is when [color=#a4885c]all[/color] players are in the server lobby.
+  このルールの唯一の例外は、[color=#a4885c]全プレイヤー[/color]がサーバーロビーにいる場合である。
 
-  ## Teaching new players
-  Teaching players is not exempt from this rule. If you want to teach a new player, it is recommended to either watch a stream of them playing the game while not playing yourself, or communicate with them using only in-game methods of communication.
+  ## 新規プレイヤーへの指導
+  プレイヤーに教えることはこのルールから除外されません。新規プレイヤーに教える場合は、自分がプレイしていない状態でプレイしているストリームを見るか、ゲーム内のコミュニケーション手段のみを使ってコミュニケーションを取ることを推奨します。
 
-  ## Streaming
-  Public livestreams are not exempt from this rule, but have different liability. Using information from a public live stream of the game (stream sniping) is a violation of this rule. Watching a public live stream of the game while connected to the same server is a violation of this rule. Allowing people watching a public live stream to share information about the current round, for example through the stream's chat, is a violation of this rule. Using that information is also a violation of this rule. Sharing information about the current round with a streamer is a violation of this rule if that information was obtained from any source but the stream. The stream's moderators are expected to enforce this on the streaming platform in addition to any in-game enforcement done by game admins.
+  ## ストリーミング
+  公開ライブストリームはこのルールから除外されませんが、異なる責任があります。ゲームのパブリックライブストリームの情報を使用すること（ストリームスナイピング）は、このルールの違反です。同じサーバーに接続したまま、ゲームの公開ライブストリームを視聴することは、本ルール違反となります。公開ライブストリームを視聴している人に、例えばストリームのチャットを通じて、現在のラウンドに関する情報を共有させることは、このルールに違反します。また、その情報を使用することも本ルール違反となる。現在のラウンドに関する情報をストリーマーと共有することは、その情報がストリーム以外から入手されたものである場合、本ルール違反となります。ストリームのモデレーターは、ゲームアドミニストレータによるゲーム内での強制に加え、ストリーミングプラットフォーム上でもこのルールを強制することが期待されています。
 
-  Public livestreaming by itself is not a violation of the rule as long as the stream is sufficiently moderated. Streamers are encouraged, but not required, to use a stream delay.
+  ストリームが十分にモデレートされている限り、公開ライブストリーミング自体はルール違反ではない。ストリーマーはストリームディレイを使用することが推奨されますが、必須ではありません。
 </Document>
