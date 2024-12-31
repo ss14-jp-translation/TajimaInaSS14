@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: BlankHandyFlag
-  name: blank handheld flag
-  description: "Some piece of white cloth wound on a stick."
+  name: 白ポータブル旗
+  description: "棒の上に白い布。"
   components:
   - type: Sprite
     sprite: Objects/Misc/Handy_Flags/blank_handy_flag.rsi
@@ -13,8 +13,8 @@
 - type: entity
   parent: BaseItem
   id: NTHandyFlag
-  name: Nanotrasen handheld flag
-  description: "Glory to NT! Wait, they really made a handheld flag for a corporation?"
+  name: Nanotrasenポータブル旗
+  description: "Nanotrasenに栄光あれ！本当に企業のポータブル旗を作ったのか？"
   components:
   - type: Sprite
     sprite: Objects/Misc/Handy_Flags/NT_handy_flag.rsi
@@ -25,8 +25,8 @@
 - type: entity
   parent: [BaseItem, BaseSyndicateContraband]
   id: SyndieHandyFlag
-  name: syndicate handheld flag
-  description: "For truly rebellious patriots. Death to NT!"
+  name: シンジケートポータブル旗
+  description: "真に反抗的な愛国者たちへ。Nanotrasenをぶっ壊す！"
   components:
   - type: Sprite
     sprite: Objects/Misc/Handy_Flags/syndie_handy_flag.rsi
@@ -37,8 +37,8 @@
 - type: entity
   parent: BaseItem
   id: LGBTQHandyFlag
-  name: LGBTQ handheld flag
-  description: "The be gay do crime handy flag."
+  name: LGBTQ+ポータブル旗
+  description: "このポータブル旗には、実にさまざまなフレーバーがある。"
   components:
   - type: Sprite
     sprite: Objects/Misc/Handy_Flags/lgbtq_handy_flag.rsi
@@ -49,8 +49,20 @@
 - type: entity
   parent: BaseItem
   id: PirateHandyFlag
-  name: pirate handheld flag
-  description: "Holding it in your hands, show these carp that you're not kidding."
+  name: 海賊ポータブル旗
+  description: "あなたが手にしているこの旗は、あなたがどれだけ熱心に現実のものにしようとしているかを他の人に示すものだ。"
+  components:
+  - type: Sprite
+    sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
+    state: icon
+  - type: Item
+    sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
+
+- type: entity
+  parent: BaseItem
+  id: JapanHandyFlag
+  name: 日本ポータブル旗
+  description: "棒に刺さった白い旗に赤い丸。"
   components:
   - type: Sprite
     sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
