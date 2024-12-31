@@ -3,10 +3,10 @@
 # Nothing specific yet
 
 [game]
-hostname = "[JP][LRP]田島稲のSS14"
+hostname = "[JP][LRP]田島イナSS14・アマテラス"
 
 [hub]
 tags = "lang:ja,region:as_se,rp:low"
 
 [loki]
-name = "reviazan"
+name = "amaterasu"

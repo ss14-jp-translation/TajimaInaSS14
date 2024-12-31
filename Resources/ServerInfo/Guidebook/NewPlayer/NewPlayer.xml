@@ -1,42 +1,46 @@
 <Document>
-# Welcome to Space Station 14!
+# Space Station 14へようこそ！
 
-You've just begun your shift aboard a Nanotrasen space station.
-You and your fellow crewmates are tasked with working together, surviving, and having fun!
+あなたはNanotrasen宇宙ステーションでの勤務を開始したところです。
+あなたと仲間のクルーは協力し、生き残り、そして楽しむことを任務としています！
 
-[bold]Make sure to follow all server rules.[/bold] You can ask questions or report rule breaks to the [color=#EB2D3A][bold]admin team[/bold][/color] by using the [bold]admin help menu[/bold]. ([italic]accessible by pressing [/italic][color=yellow][bold][keybind="OpenAHelp"/][/bold][/color])
+[bold]Make sure to follow all server rules.[/bold] You can ask questions or report rule breaks to the [color=#EB2D3A][bold]admin team[/bold][/color] by using the [bold]admin help menu[/bold]. (accessible by pressing [color=yellow][bold][keybind="OpenAHelp"/][/bold][/color])
 
-More detailed guides about [italic]specific jobs[/italic] and [italic]mechanics[/italic] can be found [textlink="here." link="SS14"/]
+[bold]サーバーのルールは必ず守ってください[/bold]。[bold]ahelpメニュー[/bold]を使用することで、[color=#EB2D3A][bold]アドミンチーム[/bold][/color]に質問やルール違反を報告することができます。([color=yellow][bold[keybind="OpenAHelp"/][/bold][/color]を押すことでアクセスできます)
 
-This guide can be reopened at any time using [color=yellow][bold][keybind="OpenGuidebook"][/bold][/color].
+[textlink="特定の仕事とメカニックに関するより詳細なガイドは、こちらをご覧ください。" link="SS14"/]
 
-## Basic Controls
-The following are the controls you'll need for regular gameplay:
+このガイドは[color=yellow][bold][keybind="OpenGuidebook"][/bold][/color]でいつでも再開できます。
 
-- Run using [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]. Hold down [color=yellow][bold][keybind="Walk"][/bold][/color] to walk
+## 基本操作
+以下は、通常のゲームプレイに必要な操作方法です：
 
-- Examine the world around you with [color=yellow][bold][keybind="ExamineEntity"][/bold][/color]
+- [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]を使って走る。
+[color=yellow][bold][keybind="Walk"][/bold][/color]を押しながら歩く。
 
-- Interact with the world using [color=yellow][bold][keybind="Use"][/bold][/color]
+- [color=yellow][bold][keybind="ExamineEntity"][/bold][/color]で周囲を調べる
 
-- Hovering over an entity and pressing [color=yellow][bold][keybind="UseSecondary"][/bold][/color] shows the [italic]context menu[/italic], which contains additional interactions
+- [color=yellow][bold][keybind="Use"][/bold][/color]を使って世界と交流する
 
-- Swap hands using [color=yellow][bold][keybind="SwapHands"][/bold][/color] and activate the currently held item with [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]
+- エンティティにカーソルを合わせて[color=yellow][bold][keybind="UseSecondary"][/bold][/color]を押すと、コンテキストメニューが表示されます。
 
-- Drop held items with [color=yellow][bold][keybind="Drop"][/bold][/color] or throw them using [color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color]
+- [color=yellow][bold][keybind="SwapHands"][/bold][/color]で手を交換し、[color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]で現在持っているアイテムを作動させる。
 
-- Pull and release things with [color=yellow][bold][keybind="TryPullObject"][/bold][/color] and [color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color]
+- 持っているアイテムを[color=yellow][bold][keybind="Drop"][/bold][/color]で落としたり、[color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color]で投げたりする。
 
-A more comprehensive list can be found on the [textlink="controls" link="Controls"] page.
+- [color=yellow][bold][keybind="TryPullObject"][/bold][/color]と[color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color]で物を引っ張ったり離したりする
 
-## What is SS14?
-Space Station 14 is a multiplayer game about paranoia and chaos on a space station and a remake of the cult-classic Space Station 13.
+より包括的なリストは[textlink="controls" link="Controls"]のページにある。
 
-Join dozens of other players on an intricately designed and simulated space station, immersing yourself in roleplay and dealing with threats along the way.
+## SS14とは？
+Space Station 14は宇宙ステーションでのパラノイアとカオスをテーマにしたマルチプレイヤーゲームで、カルト的人気を誇るSpace Station 13のリメイク版です。
 
-SS14 is an [italic]open-source game[/italic] developed by people [bold]just like you![/bold]
-It receives [color=lime]daily updates[/color] and may at times be [color=#EB2D3A][bold]unstable.[/bold][/color]
+複雑に設計された宇宙ステーションのシミュレーションで、他の何十人ものプレイヤーと一緒にロールプレイに没頭し、脅威と戦ってください。
 
-[italic]If you want to report bugs or help with development, join the discord and learn how to get started.[/italic]
+[bold]SS14は、あなたのような人々によって開発されたオープンソースのゲームです！[/bold]
+
+[color=lime]毎日アップデートが行われ[/color]、[color=#EB2D3A][bold]時には不安定になることもあります。[/bold][/color]
+
+バグを報告したり開発を手伝いたい場合は、ディスコードに参加して始め方を学んでください。
 
 </Document>
