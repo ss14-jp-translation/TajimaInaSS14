@@ -1,64 +1,64 @@
 <Document>
-# Speech and Text Channels
-Talking is a key part of Space Station 14. You can press [keybind="FocusChatInputWindow"/] to jump to the text box.
+# スピーチとテキストチャンネル
+会話はSpace Station 14の重要な部分です。[keybind="FocusChatInputWindow"/]を押すとテキストボックスにジャンプします。
 
-The word next to the text box is the [color=#a4885c]text channel[/color] you're about to send the message to, or rather how you're about to say what you've typed.
+テキストボックスの横にある単語は、あなたがメッセージを送ろうとしている [color=#a4885c]テキストチャンネル[/color] です。
 
-Local is normal speech at normal volume.
+ローカルは通常の音量で通常の会話。
 
-Whisper can only be heard when nearby somebody. You automatically whisper into your radio to send messages over it.
+ウィスパーは近くにいる人にしか聞こえない。無線機に向かって自動的にささやき、メッセージを送信します。
 
-Emotes are gestures that you make. Can be recieved by anyone who is not blinded. You will often see mimes do many emotes.
+エモーションはジェスチャーです。盲目でない人なら誰でも受け取ることができます。パントマイムのエモートもよく見かけます。
 
-Whisper messages can be sent by starting your message with [color=#a4885c][keybind="FocusWhisperChatWindow"/][/color] and Emotes can be sent by starting your message with ([color=#a4885c]@[/color]).
-You can also cycle through all of these text channels by pressing [keybind="CycleChatChannelForward"/].
+ウィスパーメッセージは[color=#a4885c][keybind="FocusWhisperChatWindow"/][/color]で、エモートは([color=#a4885c]@[/color])でメッセージを始めることで送信できます。
+また、[keybind="CycleChatChannelForward"/]を押すことで、これらのテキストチャンネルをすべて循環させることができます。
 
-People may not be able to make out all of what you're saying if you're standing too far away from them. This is especially important if you're whispering.
+あなたが遠くに立っていると、相手はあなたが話していることをすべて聞き取れないかもしれません。これは、あなたが小声で話している場合に特に重要です。
 
-## Radio
+## ラジオ
 
-Your radio allows you to communicate across the entire station and to your specific [color=#a4885c]department[/color].
+無線機を使えば、ステーション全体や特定の[color=#a4885c]部署[/color]とコミュニケーションをとることができます。
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetGrey"/>
 </Box>
 
-To send a [color=#a4885c]station-wide[/color] message over the radio preface, use the [color=#32cd32]Common[/color] channel by beginning your text with [color=#32cd32]semi-colon (;)[/color].
-People standing right next to you might catch bits of your radio message, even if they don't have the access to the relevant radio channel. Watch for eavesdroppers.
+[color=#a4885c]ステーション全体[/color]のメッセージをラジオの前説で送るには、[color=#32cd32]セミコロン(;)[/color]でテキストを始めて、[color=#32cd32]コモン[/color]チャンネルを使います。
+あなたのすぐ隣に立っている人は、該当する無線チャンネルにアクセスできなくても、あなたの無線メッセージの断片をキャッチするかもしれません。盗聴者に注意してください。
 
-## Departmental Radio
+## 部局ラジオ
 
-You are able to send messages over your departmental radio channels using [color=#32cd32]colon (:)[/color] followed by the department letter as long as you're wearing a headset with your department's encryption key.
+[color=#32cd32]コロン(:)[/color] の後に部署名を入力すると、部署の無線チャンネルでメッセージを送信できます。
 
-Examine your headset to see the department channels available to you.
+ヘッドセットを調べて、使用可能な部署チャンネルを確認してください。
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetEngineering"/>
 </Box>
 
-Examining an unmodified engineering headset would show you the prefixes for the [color=#32cd32]Common[/color] and [color=#f37746]Engineering[/color] channels.
+未修正のエンジニアリング・ヘッドセットを調べると、[color=#32cd32]コモン[/color]と[color=#f37746]エンジニアリング[/color]チャンネルのプレフィックスが表示されます。
 
-It is also possible to use [color=#a4885c]:h[/color]. This hotkey will automatically default to your department radio channel.
-For example, if you're a Station Engineer then [color=#a4885c]:h[/color] will default to [color=#f37746]:e[/color].
+「[color=#a4885c]:h[/color]」を使用することも可能です。このホットキーは、自動的に所属部署の無線チャンネルにデフォルト設定されます。
+例えば、あなたがステーションエンジニアなら、「[color=#a4885c]:h[/color]」は「[color=#f37746]:e[/color]」にデフォルト設定されます。
 
-## Encryption Keys
-[color=#a4885c]Encryption keys[/color] give you access to their respective channel.
-  
-Examining our engineering headset from earlier shows us [color=#32cd32]Common[/color] and [color=#f37746]Engineering[/color] because an engineer's headset starts with those [color=#a4885c]encryption keys[/color].
-  
+## 暗号化キー
+[color=#a4885c]暗号化キー[/color]はそれぞれのチャンネルにアクセスできるようにします。
+
+先ほどのエンジニアリングヘッドセットを調べると、[color=#32cd32]コモン[/color]と[color=#f37746]エンジニアリング[/color] が表示されます。
+
 <Box>
   <GuideEntityEmbed Entity="EncryptionKeyCommon"/>
   <GuideEntityEmbed Entity="EncryptionKeyEngineering"/>
 </Box>
-  
-You can take out encryption keys by using a [color=#a4885c]screwdriver[/color] on a headset. New encryption keys are put into headsets by clicking on one with an encryption key in your hand.
 
-All command members have extras of their relevant encryption key, but you can also request one at the HoP's office when you're getting your job changed.
+ヘッドセットに[color=#a4885c]ドライバー[/color]を使用すると、暗号化キーを取り出すことができます。新しい暗号化キーは、暗号化キーを手に持ってヘッドセットをクリックすることで入れられる。
 
-## OOC Channels
-OOC (out-of-character) channels exist outside of the game world. They are LOOC, OOC and Dead chat.
+すべての司令部メンバーは関連する暗号キーの予備を持っているが、ジョブチェンジの際にHoPのオフィスで要求することもできる。
 
-LOOC is on during the rounds, OOC is typically off until the round ends and you can only see and talk in Dead chat when you are, well, dead.
+## OOC チャンネル
+OOC（キャラクター外）チャンネルはゲーム世界の外に存在する。これらのチャットにはLOOC、OOC、「死んだ」がある。
 
-Do not discuss the current round in the Discord or in OOC if it's on during the round.
+LOOCはラウンド中にオン、OOCは通常ラウンドが終了するまでオフ、「死んだ」は自分が死んでいるときのみ見たり話したりできます。
+
+DiscordやOOCで現在のラウンドについて議論しないでください。
 </Document>

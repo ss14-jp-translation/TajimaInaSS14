@@ -324,7 +324,7 @@
   parent: PosterBase
   id: PosterContrabandCC64KAd
   name: "Fony BH-F1 Ad"
-  description: "64KB RAMを搭載したFonyの最新ポータブルコンピューター！"
+  description: "64KB RAMを搭載したFonyの最新パソコン！"
   components:
   - type: Sprite
     state: poster31_contraband

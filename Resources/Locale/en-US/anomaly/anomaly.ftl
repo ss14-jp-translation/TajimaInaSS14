@@ -23,14 +23,14 @@ anomaly-scanner-stability-unknown = 現在の異常状態： [color=red]エラ�
 anomaly-scanner-point-output = ポイント出力： [color=gray]{$point}[/color]。
 anomaly-scanner-point-output-unknown = ポイント出力： [color=red]ERROR[/color]。
 anomaly-scanner-particle-readout = 粒子反応分析：
-anomaly-scanner-particle-danger = - [color=crimson]危険タイプ:[/color] {$type}.
-anomaly-scanner-particle-unstable = - [color=plum]不安定なタイプ:[/color] {$type}.
-anomaly-scanner-particle-containment = - [color=goldenrod]封じ込めタイプ:[/color] {$type}.
-anomaly-scanner-particle-transformation = - [color=#6b75fa]変換タイプ:[/color] {$type}.
-anomaly-scanner-particle-danger-unknown = - [color=crimson]危険タイプ:[/color] [color=red]ERROR[/color] {$type}。
-anomaly-scanner-particle-unstable-unknown = - [color=plum]不安定タイプ:[/color] [color=red]ERROR[/color].
-anomaly-scanner-particle-containment-unknown = - [color=goldenrod]封じ込めタイプ:[/color] [color=red]ERROR[/color].
-anomaly-scanner-particle-transformation-unknown=-[color=#6b75fa]変換タイプ:[/color] [color=red]ERROR[/color].
+anomaly-scanner-particle-danger = - [color=crimson]危険タイプ:[/color] {$type}
+anomaly-scanner-particle-unstable = - [color=plum]不安定なタイプ:[/color] {$type}
+anomaly-scanner-particle-containment = - [color=goldenrod]封じ込めタイプ:[/color] {$type}
+anomaly-scanner-particle-transformation = - [color=#6b75fa]変換タイプ:[/color] {$type}
+anomaly-scanner-particle-danger-unknown = - [color=crimson]危険タイプ:[/color] [color=red]ERROR[/color] {$type}
+anomaly-scanner-particle-unstable-unknown = - [color=plum]不安定タイプ:[/color] [color=red]ERROR[/color]
+anomaly-scanner-particle-containment-unknown = - [color=goldenrod]封じ込めタイプ:[/color] [color=red]ERROR[/color]
+anomaly-scanner-particle-transformation-unknown=-[color=#6b75fa]変換タイプ:[/color] [color=red]ERROR[/color]
 anomaly-scanner-pulse-timer = Time until next pulse: [color=gray]{$time}[/color]
 
 anomaly-gorilla-core-slot-name = アノマリーコア

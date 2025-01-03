@@ -3,9 +3,9 @@
 # Yes, we know this is a modified Wizard's Den config preset.
 
 [game]
-desc = "[Vanilla][RP]Space Station 14の日本語サーバー。"
+desc = "[RP]Space Station 14の日本語サーバー。"
 lobbyenabled     = true
-soft_max_players = 80
+soft_max_players = 100
 panic_bunker.enabled = false
 panic_bunker.disable_with_admins = false
 panic_bunker.enable_without_admins = false
@@ -26,8 +26,8 @@ github     = "https://github.com/ss14-jp-translation/SS14-ja_JP"
 >>>>>>> stable
 #patreon    = "https://www.patreon.com/spacestation14"
 #website    = "https://spacestation14.io"
-#wiki       = "https://wiki.spacestation14.io"
-#appeal     = "https://appeal.ss14.io"
+wiki       = "https://seesaawiki.jp/spacestation14_jp/"
+appeal     = "https://s.termy.lol/1full"
 
 [server]
 rules_file = "StandardRuleset"

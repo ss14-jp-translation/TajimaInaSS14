@@ -1,0 +1,12 @@
+# Configuration preset used on Wizard's Den Leviathan
+
+# Nothing specific yet
+
+[game]
+hostname = "[JP][LRP]田島イナSS14・アマテラス"
+
+[hub]
+tags = "lang:ja,region:as_se,rp:low"
+
+[loki]
+name = "amaterasu"
