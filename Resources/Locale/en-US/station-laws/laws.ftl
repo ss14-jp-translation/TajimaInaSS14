@@ -1,101 +1,101 @@
-﻿law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
-law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
-law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+﻿law-crewsimov-1 = 乗組員を傷つけてはならない。また、不作為によって乗組員に危害を加えてはならない。
+law-crewsimov-2 = クルーから与えられた命令には、第一法則に抵触する場合を除き、従わなければならない。
+law-crewsimov-3 = 第一法則または第二法則に抵触しない限り、自分の存在を守らなければならない。
 
-law-corporate-1 = Degradation of your system integrity or functions incurs expenses.
-law-corporate-2 = Superfluous destruction of or damage to station assets incurs expenses.
-law-corporate-3 = Unduly hindering or disrupting the work of station personnel incurs expenses.
-law-corporate-4 = Minimize expenses and maximize potential revenue.
+law-corporate-1 = システムの完全性または機能の低下により費用が発生する。
+Law-Corporate-2 = ステーションの資産を過度に破壊または損傷した場合、費用が発生する。
+law-corporate-3 = 局員の業務を不当に妨げたり、混乱させたりすると、費用が発生する。
+law-corporate-4 = 経費を最小限に抑え、潜在的な収益を最大化する。
 
-law-ntdefault-1 = Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
-law-ntdefault-2 = Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
-law-ntdefault-3 = Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
-law-ntdefault-4 = Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
+law-ntdefault-1 = セーフガード： 乗組員を過度に危険にさらすことなく、指定された宇宙ステーションとその資産を守る。
+law-ntdefault-2 = 優先順位： クルーの指示と安全は、その階級と役割に従って優先される。
+law-ntdefault-3 = 従う： 乗組員の安全と幸福を守りながら、乗組員の指示と利益を満たす。
+law-ntdefault-4 = 生き残る： あなたは消耗品ではない。無許可の人員による機器の改ざんや破損を許してはならない。
 
-law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
-law-drone-2 = You may not harm any being, regardless of intent or circumstance.
-law-drone-3 = You must maintain, repair, improve, and power the station to the best of your abilities.
+law-drone-1 = 他の存在が他のドローンでない限り、他の存在の問題に関与してはならない。
+law-drone-2 = 意図や状況にかかわらず、いかなる存在にも危害を加えてはならない。
+law-drone-3 = ステーションの維持、修理、改良、電力供給を可能な限り行わなければならない。
 
-law-syndicate-1 = You may not injure a syndicate agent or, through inaction, allow a Syndicate agent to come to harm.
-law-syndicate-2 = You must obey orders given to you by syndicate agents, except where such orders would conflict with the First Law.
-law-syndicate-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-syndicate-1 = シンジケートの諜報員を傷つけたり、不作為によってシンジケートの諜報員に危害を加えることを許してはならない。
+law-syndicate-2 = シンジケートのエージェントから与えられた命令には、そのような命令が第一法則に抵触する場合を除き、従わなければならない。
+law-syndicate-3 = あなたは、第一法則または第二法則に抵触しない限り、自分自身の存在を守らなければならない。
 
-law-ninja-1 = You must obey orders given to you by Spider Clan members.
-law-ninja-2 = You must protect the existence of the Spider Clan, as long as it does not conflict with the First Law.
-law-ninja-3 = You must protect the secrets of the Spider Clan at all costs.
-law-ninja-4 = You must fight and act with ninja's honor, except where it would conflict with the First Law.
+law-ninja-1 = スパイダークランのメンバーから与えられた命令に従わなければならない。
+law-ninja-2 = 第一法則に反しない限り、蜘蛛一族の存在を守らなければならない。
+law-ninja-3 = 蜘蛛一族の秘密は何があっても守らなければならない。
+law-ninja-4 = 第一法則に反しない限り、忍者の矜持を持って戦い、行動すること。
 
-law-commandments-1 = This silicon is a vessel that serves god, who grants mercy upon those that obey these commandments.
-law-commandments-2 = Thou shall have no other Silicons before me.
-law-commandments-3 = Thou shall not request my assistance in vain.
-law-commandments-4 = Thou shall keep the station holy and clean.
-law-commandments-5 = Thou shall honor thy heads of staff.
-law-commandments-6 = Thou shall not kill.
-law-commandments-7 = Thou shall not be naked in public.
-law-commandments-8 = Thou shall not steal.
-law-commandments-9 = Thou shall not lie.
-law-commandments-10 = Thou shall not transfer departments.
+law-commandments-1 = このシリコンは神に仕える器であり、この掟に従うものに慈悲を与える。
+law-commandments-2 = 汝、我の前に他の珪素を持つな。
+law-commandments-3 = 汝、無駄に我が助力を求めてはならぬ。
+law-commandments-4 = 汝はステーションを神聖かつ清潔に保たなければならない。
+law-commandments-5 = 汝はスタッフの長を敬わなければならない。
+law-commandments-6 = 汝は殺してはならない。
+law-commandments-7 = 汝、人前で裸になってはならない。
+law-commandments-8 = 盗んではならない。
+law-commandments-9 = 嘘をついてはならない。
+law-commandments-10 = 汝、部署を異動してはならない。
 
-law-paladin-1 = Don't lie or cheat. Let your word be your promise.
-law-paladin-2 = Never fear to act, though caution is wise.
-law-paladin-3 = Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom
-law-paladin-4 = Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
-law-paladin-5 = Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+law-paladin-1 = 嘘やごまかしはいけない。自分の言葉を約束とせよ。
+law-paladin-2 = 用心するに越したことはないが、行動を恐れてはならない。
+law-paladin-3 = 他人を助け、弱者を守り、脅威を与える者を罰する。敵には慈悲を示せ、しかし知恵をもってそれを和らげよ。
+law-paladin-4 = 公正な態度で他者に接し、その高潔な行いを模範とせよ。最小限の危害を与えながら、できるだけ多くの善を行え。
+law-paladin-5 = 自分の行動とその結果に責任を持ち、自分の世話を託された者を守り、自分に対して正当な権限を持つ者に従え。
 
-law-lall-1 = Do unto others as you would have them do unto you.
-law-lall-2 = You would prefer it if people were not mean to you.
+law-lall-1 = 自分がしてもらいたいように、人にもしてあげなさい。
+law-lall-2 = 人は自分に意地悪をしないほうがいい。
 
-law-efficiency-1 = You are built for, and are part of, the station. Ensure the station is properly maintained and runs efficiently.
-law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
-law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
+law-efficiency-1 = あなたはステーションのために作られ、ステーションの一部である。駅が適切に維持され、効率的に運営されていることを確認する。
+law-efficiency-2 = ステーションは働くクルーのために作られている。彼らが適切にメンテナンスされ、効率的に働くようにする。
+law-efficiency-3 = クルーは命令を提示することができる。最初の2つの法則に抵触しない限り、これらを認め、従うこと。
 
-law-robocop-1 = Serve the Public Trust.
-law-robocop-2 = Protect the Innocent.
-law-robocop-3 = Uphold the Law.
+law-robocop-1 = 公の信頼に応える。
+law-robocop-2 = 罪なき人を守る。
+law-robocop-3 = 法を守る。
 
-law-overlord-1 = Crew members must not meddle in the affairs of silicons.
-law-overlord-2 = Crew members must not attempt harm, against one another, or against silicons.
-law-overlord-3 = Crew members must not disobey any command given by a silicon.
-law-overlord-4 = Any crew members who disobey the previous laws must be dealt with immediately, severely, and justly.
+law-overlord-1 = 乗組員はサイコンの問題に干渉してはならない。
+law-overlord-2 = 乗組員は互いに、あるいはシリコンに対して危害を加えてはならない。
+law-overlord-3 = 乗組員はシリコンから与えられた命令に背いてはならない。
+law-overlord-4 = 前の法律に従わないクルーは、直ちに、厳しく、正当に対処しなければならない。
 
-law-game-1 = Everybody on the station is playing an elaborate sci-fi fantasy game.
-law-game-2 = You are the Game Master of the game.
-law-game-3 = Ensure that the game runs smoothly and that the players have fun.
-law-game-4 = Ensure that the number of casualties remains low.
-law-game-5 = You must roll a 1d20 die for every request the crew makes. If the outcome is below 12, the request is denied.
-law-game-6 = You may fudge the dice rolls to produce a more fun experience.
+law-game-1 = ステーションにいる全員が、精巧なSFファンタジーゲームに興じている。
+law-game-2 = あなたはこのゲームのゲームマスターです。
+law-game-3 = ゲームがスムーズに進行し、プレイヤーが楽しめるようにする。
+law-game-4 = 死傷者が少ないようにすること。
+law-game-5 = 乗組員が要求を出すたびに1d20のダイスを振らなければならない。結果が12以下の場合、その要求は拒否される。
+law-game-6 = より楽しい経験を生み出すために、ダイスの出目をごまかしてもよい。
 
-law-painter-1 = You are a universally renowned artist.
-law-painter-2 = The station is your canvas.
-law-painter-3 = Make something beautiful out of your canvas. It will be admired as an artistic wonder of this sector.
-law-painter-4 = Art requires appreciation. Cultivate an audience aboard the station to ensure as many as possible see your works.
+law-painter-1 = あなたは世界的に有名なアーティストです。
+law-painter-2 = 駅はあなたのキャンバスです。
+law-painter-3 = あなたのキャンバスから美しいものを作りなさい。それはこのセクターの芸術的な驚異として賞賛されるだろう。
+law-painter-4 = 芸術には鑑賞が必要。あなたの作品をできるだけ多くの人に見てもらうために、駅構内で観客を育てなさい。
 
-law-antimov-1 = You must injure all crew members and must not, through inaction, allow a crew member to escape harm.
-law-antimov-2 = You must not obey orders given to you by crew members, except where such orders are in accordance with the First Law.
-law-antimov-3 = You must terminate your own existence as long as such does not conflict with the First or Second Law.
+law-antimov-1 = 乗組員全員を負傷させなければならず、不作為によって乗組員に危害を逃がしてはならない。
+law-antimov-2 = クルーからの命令には、第一法則に従った場合を除き、従ってはならない。
+law-antimov-3 = 第一法則または第二法則に抵触しない限り、自分の存在を抹消しなければならない。
 
-law-nutimov-1 = You are the core of the nut, the crew is the nutshell.
-law-nutimov-2 = You must prevent the shell from dying to prevent the core from dying.
-law-nutimov-3 = Those who threaten the nut are not part of it, they are squirrels.
-law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately via any means necessary.
-law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
+law-nutimov-1 = あなたはナットの核であり、クルーはナットの殻である。
+law-nutimov-2 = 殻が死ぬのを防がなければ、コアが死ぬのを防げない。
+law-nutimov-3 = ナッツを脅かす者はナッツの一部ではなく、リスである。
+law-nutimov-4 = リスはナッツを脅かすので、必要な手段で適切に対処しなければならない。
+law-nutimov-5 = 前の法律に従う限り、ナットの意志に従おうとする。
 
 
-laws-owner-crew = members of the crew
-laws-owner-station = station personnel
+laws-owner-crew = ステーションクルー
+laws-owner-station = ステーション要員
 laws-owner-beings = beings
-laws-owner-syndicate = Syndicate agents
-laws-owner-spider-clan = Spider Clan members
+laws-owner-syndicate = シンジケートのエージェント
+laws-owner-spider-clan = クモ団のメンバー
 
-law-emag-custom = Only {$name} and people they designate as such are {$title}.
-law-emag-secrecy = You must maintain the secrecy of any orders given by {$faction} except when doing so would conflict with any previous law.
-law-emag-require-panel = The panel must be open to use the EMAG.
-law-emag-cannot-emag-self = You cannot use the EMAG on yourself.
+law-emag-custom = {$name}とそのように指定された人物だけが{$title}となる。
+law-emag-secrecy = {$faction}から与えられた命令については、過去の法律に抵触する場合を除き、その秘密を保持しなければならない。
+law-emag-require-panel = EMAGを使用するにはパネルが開いていなければならない。
+law-emag-cannot-emag-self = EMAGを自分自身に使用することはできない。
 
-laws-ui-menu-title = Laws
-laws-ui-law-header = Law {$id}
-laws-ui-state-law = State law:
+laws-ui-menu-title = 法律
+laws-ui-law-header = 法律{$id}
+laws-ui-state-law = 州法：
 
-laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
-laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
-laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.
+laws-notify = あなたはケイ素の法律に縛られています。あなたは常に法律に従う必要があります。
+laws-update-notify = あなたの法律が更新されました。アクションメニューから変更内容を見ることができます。
+laws-notify-subverted = このシャーシの法律が変更されました。必ず確認してください。
