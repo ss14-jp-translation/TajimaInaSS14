@@ -4,9 +4,9 @@
 あなたはNanotrasen宇宙ステーションでの勤務を開始したところです。
 あなたと仲間のクルーは協力し、生き残り、そして楽しむことを任務としています！
 
-[bold]Make sure to follow all server rules.[/bold] You can ask questions or report rule breaks to the [color=#EB2D3A][bold]admin team[/bold][/color] by using the [bold]admin help menu[/bold]. (accessible by pressing [color=yellow][bold][keybind="OpenAHelp"/][/bold][/color])
+[bold]サーバーのルールは必ず守ってください。[/bold][bold]ahelpメニュー[/bold]を使って、[color=#EB2D3A][bold]アドミンチーム[/bold][/color]に質問したり、ルール違反を報告することができます。(キーバインド[color=yellow][bold][keybind="OpenAHelp"/][/bold][/color]でアクセスできます)
 
-[bold]サーバーのルールは必ず守ってください[/bold]。[bold]ahelpメニュー[/bold]を使用することで、[color=#EB2D3A][bold]アドミンチーム[/bold][/color]に質問やルール違反を報告することができます。([color=yellow][bold[keybind="OpenAHelp"/][/bold][/color]を押すことでアクセスできます)
+[bold]サーバーのルールは必ず守ってください[/bold]。[bold]ahelpメニュー[/bold]を使用することで、[color=#EB2D3A][bold]アドミンチーム[/bold][/color]に質問やルール違反を報告することができます。([color=yellow][bold][keybind="OpenAHelp"/][/bold][/color]を押すことでアクセスできます)
 
 [textlink="特定の仕事とメカニックに関するより詳細なガイドは、こちらをご覧ください。" link="SS14"/]
 
@@ -30,7 +30,7 @@
 
 - [color=yellow][bold][keybind="TryPullObject"][/bold][/color]と[color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color]で物を引っ張ったり離したりする
 
-より包括的なリストは[textlink="controls" link="Controls"]のページにある。
+より包括的なリストは[textlink="操作" link="Controls"]のページにある。
 
 ## SS14とは？
 Space Station 14は宇宙ステーションでのパラノイアとカオスをテーマにしたマルチプレイヤーゲームで、カルト的人気を誇るSpace Station 13のリメイク版です。

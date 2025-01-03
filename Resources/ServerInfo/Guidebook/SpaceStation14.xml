@@ -1,51 +1,51 @@
 ﻿<Document>
-# Station and Shifts
+# ステーションとシフト
 
-Every round of SS14 is a [bold]self-contained shift[/bold] that takes place on one of many different stations.
+SS14の各ラウンドは[bold]自己完結型のシフト[/bold]であり、多くの異なるステーションのいずれかで行われる。
 
-Rounds typically last from [color=cyan]45 to 90 minutes[/color], but players are free to leave and join at any point during a round.
+ラウンドは通常、[color=cyan]45分から90分[/color]続くが、プレイヤーはラウンド中のどの時点でも自由に出たり入ったりすることができる。
 
-## Shuttle Terminal
-If you join in the middle of a shift, you will likely spawn on the [color=lime]shuttle terminal[/color].
-Here you can grab drinks, conversate with other players, and wait for the shuttle to take you to the station.
+## シャトルターミナル
+シフトの途中で参加した場合、[color=lime]シャトルターミナル[/color]にスポーンする可能性が高い。
+ここで飲み物を飲んだり、他のプレイヤーと会話したり、ステーション行きのシャトルを待つことができる。
 
-Screens on the walls will give you an ETA for the shuttle.
-When it arrives, simply walk on to be transported to the station.
+壁のスクリーンにシャトルの到着時間が表示される。
+シャトルが到着したら、そのまま歩いてステーションまで移動しよう。
 
-Make sure to stay inside the terminal and to not stand in the shuttle landing zone. [color=#EB2D3A][bold]You can be crushed by shuttles flying in[/bold][/color]
+ターミナル内にとどまり、シャトルの発着場には立たないように注意しよう。[color=#EB2D3A][bold]飛んでくるシャトルに押しつぶされる可能性があります[/bold][/color]。
 
-## Navigation
-Every station has a wide variety of locations to visit.
-These range from specific departments where work happens to common areas where you can relax and chat with others.
+## ナビゲーション
+どのステーションにも、訪れるべき様々な場所がある。
+仕事が行われる特定の部署から、リラックスして他の人とおしゃべりできる共有エリアまで、さまざまな場所がある。
 
 <Box>
   <GuideEntityEmbed Entity="StationMap"/>
-  <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="Directional Signs"/>
-  <GuideEntityEmbed Entity="SignBridge" Caption="Marker Signs"/>
+  <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="誘導標識"/>
+  <GuideEntityEmbed Entity="SignBridge" Caption="標識"/>
 </Box>
 
-[color=cyan]Station maps[/color] give you an overview of the entire station with colored markers denoting locations of different things.
-Regular [color=cyan]signs[/color] on walls can point you to different departments.
+[color=cyan]ステーションマップ[/color]は、様々なものの場所を示す色のマーカーで、ステーション全体の概要を示す。
+壁の[color=cyan]通常の標識[/color]は、異なる部署を示すことができる。
 
-## Leaving the Station
-At the end of the shift [color=gray](barring a [color=red][bold]nuclear disaster[/bold][/color])[/color], you will leave the station via the [color=lime]evac shuttle[/color].
-When it's called, an announcement will play on the station alerting the crew and signaling its [color=cyan]arrival in 10 minutes.[/color]
-Once it arrives, you'll need to make your way over to it, board it, and then survive the trip to [bold]Central Command[/bold].
+## ステーションを離れるとき
+勤務が終わると、[color=gray](原子力災害[/bold][/color]がない限り)[/color]、[color=lime]避難シャトル[/color]でステーションを離れる。
+呼び出されると、ステーションで乗組員に注意を促すアナウンスが流れ、[color=cyan]10分後の到着を知らせる[/color]。
+それが到着したら、そこへ向かって進み、乗り込み、[bold]CentComm[/bold]までの旅を生き延びる必要がある。
 
-The round doesn't officially end until you reach [bold]Central Command[/bold]
+[bold]CentComm[/bold]に到着するまで、ラウンドは正式に終了しない。
 
 <Box>
   <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
 </Box>
 
-If you need to leave a round early, you can do so through a [color=lime]cyrogenic sleep unit[/color].
-Simply going inside and leaving the game will store your belongings and ensure that they are not stolen or misused.
+ラウンドを早く切り上げたい場合は、[color=lime]冷凍睡眠ユニット[/color]を使って切り上げることができる。
+中に入ってゲームから離れるだけで、持ち物が保管され、盗まれたり悪用されたりすることがなくなります。
 
-## More Info
-Learning the controls? [textlink="Click here to read about the different controls" link="Controls"]
+## もっと詳しく
+操作を学ぶには？[textlink="ここをクリックして、さまざまな操作方法についてお読みください。" link="Controls"]
 
-Don't know how to perform a job? [textlink="Click here to jump to a list of departments" link="Jobs"]
+仕事のやり方がわからない？[textlink="ここをクリックすると、各部門のリストにジャンプします。" link="Jobs"]
 
-Keep dying? [textlink="Click here to see a survival guide" link="Survival"]
+あなたは死に続けていますか？[textlink="ここをクリックしてサバイバルガイドをご覧ください。" link="Survival"]
 
 </Document>
