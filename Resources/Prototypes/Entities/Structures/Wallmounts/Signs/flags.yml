@@ -35,7 +35,7 @@
   components:
   - type: Sprite
     state: syndie_flag
-
+    
 - type: entity
   parent: BaseFlag
   id: LGBTQFlag
@@ -44,7 +44,7 @@
   components:
   - type: Sprite
     state: lgbtq_flag
-
+    
 - type: entity
   parent: BaseFlag
   id: PirateFlag
@@ -53,3 +53,12 @@
   components:
   - type: Sprite
     state: pirate_flag
+
+- type: entity
+  parent: BaseFlag
+  id: JapanFlag
+  name: 日の丸
+  description: 白い旗に赤い丸。
+  components:
+  - type: Sprite
+    state: japan_flag

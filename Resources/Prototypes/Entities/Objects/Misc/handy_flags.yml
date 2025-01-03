@@ -57,3 +57,15 @@
     state: icon
   - type: Item
     sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
+
+- type: entity
+  parent: BaseItem
+  id: JapanHandyFlag
+  name: 日本ポータブル旗
+  description: "棒に刺さった白い旗に赤い丸。"
+  components:
+  - type: Sprite
+    sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
+    state: icon
+  - type: Item
+    sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
