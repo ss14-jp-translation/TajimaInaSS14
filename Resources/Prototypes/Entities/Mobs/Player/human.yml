@@ -1,10 +1,6 @@
 - type: entity
   save: false
-<<<<<<< HEAD
-  name: ツバヲ・カケロ
-=======
   name: ウリスト・マクハンズ
->>>>>>> stable
   parent: BaseMobHuman
   id: MobHuman
 

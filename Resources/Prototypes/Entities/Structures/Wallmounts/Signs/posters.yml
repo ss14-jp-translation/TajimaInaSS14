@@ -947,11 +947,7 @@
   parent: PosterBase
   id: PosterLegitSecWatch
   name: "SEC:Watch"
-<<<<<<< HEAD
-  description: "SECが開発した新しいステルスゲーム。"
-=======
   description: "Studio Eikawaが開発した新しいステルスゲーム。"
->>>>>>> stable
   components:
   - type: Sprite
     state: poster39_legit
