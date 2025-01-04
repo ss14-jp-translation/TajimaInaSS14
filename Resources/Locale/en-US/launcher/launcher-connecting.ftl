@@ -3,20 +3,12 @@
 connecting-title = Space Station 14
 connecting-exit = 終了
 connecting-retry = レトライ
-<<<<<<< HEAD
-connecting-reconnect = Reconnect
-=======
 connecting-reconnect = 再接続
->>>>>>> stable
 connecting-copy = Copy Message
 connecting-redial = 差起動
 connecting-redial-wait = お待ちください： { TOSTRING($time, "G3") }
 connecting-in-progress = サーバーに接続中...
-<<<<<<< HEAD
-connecting-disconnected = Disconnected from server:
-=======
 connecting-disconnected = サーバーに接続中：
->>>>>>> stable
 connecting-tip = Don't die!
 connecting-window-tip = Tip { $numberTip }
 connecting-version = ver 0.1

@@ -26,12 +26,9 @@ alerts-weightless-name = 無重力
 alerts-weightless-desc =
     重力があなたに影響しなくなり、あなたはあてもなく漂っています。何かしっかりしたものを見つけてつかむか、反対方向に何かを投げたり撃ったりしてください。
     マグブーツやジェットパックを使用すると、よりコントロールしながら移動できます。
-<<<<<<< HEAD
-=======
 
 alerts-stunned-name = [color=yellow]気絶[/color]
 alerts-stunned-desc = [color=yellow]あなたは気絶しています！[/color]何かがあなたの移動やオブジェクトとの相互作用の能力を損なっています。
->>>>>>> stable
 
 alerts-handcuffed-name = [color=yellow]手錠をかけられています。[/color]
 alerts-handcuffed-desc = [color=yellow]あなたは手錠[/color]をかけられており、手を使うことができません。もし誰かに引きずられたら、抵抗することはできないでしょう。
@@ -48,19 +45,6 @@ alerts-crit-desc = 重傷で意識がありません。
 alerts-dead-name = 死んでいる
 alerts-dead-desc = あなたは死んでいますが、まだ復活することできます。
 
-<<<<<<< HEAD
-alerts-dead-name = 死んでいる
-alerts-dead-desc = あなたは死んでいますが、まだ復活することできます。
-
-alerts-health-name = 健康
-alerts-health-desc = [color=green]緑[/color]は良い、[color=red]赤[/color]は悪い。
-
-alerts-battery-name = バッテリー
-alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
-
-alerts-no-battery-name = バッテリーなし
-alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
-=======
 alerts-health-name = 健康
 alerts-health-desc = [color=green]緑[/color]は良い、[color=red]赤[/color]は悪い。
 
@@ -72,7 +56,6 @@ alerts-no-battery-desc = バッテリーがないため、充電も能力も使�
 
 alerts-internals-name = 内部部品の切り替え
 alerts-internals-desc = ガスタンクの内部部品のオン・オフを切り替えます。
->>>>>>> stable
 
 alerts-piloting-name = シャトルを操縦
 alerts-piloting-desc = あなたはシャトルを操縦しています、停止するにはアラートをクリックしてください。
@@ -80,25 +63,6 @@ alerts-piloting-desc = あなたはシャトルを操縦しています、停止
 alerts-hunger-name = [color=yellow]ひもじい[/color]
 alerts-hunger-desc = 何か食べ物があれば今頃はいいのだが。
 
-<<<<<<< HEAD
-alerts-hunger-name = [color=yellow]ひもじい[/color]
-alerts-hunger-desc = Some food would be good right about now.
-
-alerts-stamina-name = スタミナ
-alerts-stamina-desc = Stuns you if it is too low.
-
-alerts-starving-name = [color=red]とてもひもじい[/color]
-alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore.
-
-alerts-thirsty-name = [color=yellow]乾く[/color]
-alerts-thirsty-desc = Something to drink would be good right about now.
-
-alerts-parched-name = [color=red]とても乾く[/color]
-alerts-parched-desc = You're severely thirsty. The thirst makes moving around a chore.
-
-alerts-muted-name = ミュート
-alerts-muted-desc = You have lost the ability to speak.
-=======
 alerts-stamina-name = スタミナ
 alerts-stamina-desc = 低すぎると気絶する。
 
@@ -116,7 +80,6 @@ alerts-muted-desc = あなたは話す能力を失っている。
 
 alerts-vow-silence-name = 沈黙の誓い
 alerts-vow-silence-desc = あなたはMystiko Tagma Mimonへのイニシエーションの一環として沈黙の誓いを立てました。誓いを破るにはクリックしてください。
->>>>>>> stable
 
 alerts-vow-broken-name = 誓いが破られました。
 alerts-vow-broken-desc = あなたはあらゆるミイムへの誓いを破りました。話すことはできますが、少なくとも丸5分間は力を失います！クリックして誓いを取り戻してください。
