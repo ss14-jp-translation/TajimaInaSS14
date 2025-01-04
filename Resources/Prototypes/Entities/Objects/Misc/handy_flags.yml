@@ -65,7 +65,7 @@
   description: "棒に刺さった白い旗に赤い丸。"
   components:
   - type: Sprite
-    sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
+    sprite: Objects/Misc/Handy_Flags/japan_handy_flag.rsi
     state: icon
   - type: Item
-    sprite: Objects/Misc/Handy_Flags/pirate_handy_flag.rsi
+    sprite: Objects/Misc/Handy_Flags/japan_handy_flag.rsi
